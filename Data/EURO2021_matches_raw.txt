@@ -1,0 +1,886 @@
+
+<!DOCTYPE html>
+<html lang="en" >
+			<!--Page Generated at Wed Jun  9 18:59:05 2021--><!--Page 3139 Template Prod generated at 4/28/2021 1:10:35 PM-->
+			<head>
+    <meta charset="utf-8" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <link type="text/css" rel="stylesheet" href="https://layout.eurosport.com/c/v8_5/global.css" />
+    <link type="text/css" rel="stylesheet" href="https://layout.eurosport.com/c/v8_5/home.css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, minimum-scale=1.0" />
+    <title>Eurosport</title><link rel="alternate" hreflang="x-default" href="https://www.eurosport.com/football/euro/score-center.shtml" /><link rel="alternate" hreflang="en" href="https://www.eurosport.com/football/euro/score-center.shtml" /><link rel="alternate" hreflang="en-GB" href="https://www.eurosport.co.uk/football/euro/score-center.shtml" /><link rel="alternate" hreflang="en-IE" href="https://www.eurosport.co.uk/football/euro/score-center.shtml" /><link rel="alternate" hreflang="de" href="https://www.eurosport.de/fussball/euro/score-center.shtml" /><link rel="alternate" hreflang="fr" href="https://www.eurosport.fr/football/euro/score-center.shtml" /><link rel="alternate" hreflang="it" href="https://www.eurosport.it/calcio/euro/score-center.shtml" /><link rel="alternate" hreflang="nl" href="https://www.eurosport.nl/voetbal/europees-kampioenschap/score-center.shtml" /><link rel="alternate" hreflang="es-ES" href="https://www.eurosport.es/futbol/eurocopa/score-center.shtml" /><link rel="alternate" hreflang="es" href="https://espanol.eurosport.com/futbol/eurocopa/score-center.shtml" /><link rel="alternate" hreflang="tr" href="https://www.eurosport.com.tr/futbol/avrupa/score-center.shtml" /><link rel="alternate" hreflang="da" href="https://www.eurosport.dk/fodbold/europamesterskab/score-center.shtml" /><link rel="alternate" hreflang="no" href="https://www.eurosport.no/fotball/em/score-center.shtml" /><link rel="alternate" hreflang="ru" href="https://www.eurosport.ru/football/euro/score-center.shtml" /><link rel="alternate" hreflang="ro" href="https://www.eurosport.ro/fotbal/european-championship/score-center.shtml" /><link rel="alternate" hreflang="hu" href="https://www.eurosport.hu/labdarugas/european-championship/score-center.shtml" /><link rel="canonical" href="https://www.eurosport.com/football/euro/score-center.shtml" /><link rel="image_src" href="https://layout.eurosport.com/i/v8/match/backgrounds/large/background_v8_s22.jpg" /><meta property="og:title" content="Eurosport" /><meta property="og:type" content="article" /><meta property="og:description" content="all the news and videos Football on Eurosport" /><meta property="og:image" content="https://layout.eurosport.com/i/v8/match/backgrounds/large/background_v8_s22.jpg" /><meta property="og:site_name" content="Eurosport" /><meta property="og:url" content="https://www.eurosport.com/football/euro/score-center.shtml" /><meta property="fb:app_id" content="219077031557895" /><meta property="fb:pages" content="20245299744" /><meta property="fb:pages" content="828777003809568" /><meta property="article:publisher" content="https://www.facebook.com/Eurosport" /><meta property="fb:admins" content="100001728882116,100001931030890" /><meta name="google-site-verification" content="0rOQkQR2dsSSJX9ZLflQaW7Yf8xO3ZvyYzKWKflIwNs" /><link rel="apple-touch-icon" sizes="57x57" href="https://layout.eurosport.com/i/v8/favicon/wen/apple-icon-57x57.png" /><link rel="apple-touch-icon" sizes="60x60" href="https://layout.eurosport.com/i/v8/favicon/wen/apple-icon-60x60.png" /><link rel="apple-touch-icon" sizes="72x72" href="https://layout.eurosport.com/i/v8/favicon/wen/apple-icon-72x72.png" /><link rel="apple-touch-icon" sizes="76x76" href="https://layout.eurosport.com/i/v8/favicon/wen/apple-icon-76x76.png" /><link rel="apple-touch-icon" sizes="114x114" href="https://layout.eurosport.com/i/v8/favicon/wen/apple-icon-114x114.png" /><link rel="apple-touch-icon" sizes="120x120" href="https://layout.eurosport.com/i/v8/favicon/wen/apple-icon-120x120.png" /><link rel="apple-touch-icon" sizes="144x144" href="https://layout.eurosport.com/i/v8/favicon/wen/apple-icon-144x144.png" /><link rel="apple-touch-icon" sizes="152x152" href="https://layout.eurosport.com/i/v8/favicon/wen/apple-icon-152x152.png" /><link rel="apple-touch-icon" sizes="180x180" href="https://layout.eurosport.com/i/v8/favicon/wen/apple-icon-180x180.png" /><link rel="apple-touch-icon" sizes="192x192" href="https://layout.eurosport.com/i/v8/favicon/wen/apple-icon-192x192.png" /><link rel="icon" type="image/png" sizes="16x16" href="https://layout.eurosport.com/i/v8/favicon/wen/favicon-16x16.png" /><link rel="icon" type="image/png" sizes="32x32" href="https://layout.eurosport.com/i/v8/favicon/wen/favicon-32x32.png" /><link rel="icon" type="image/png" sizes="36x36" href="https://layout.eurosport.com/i/v8/favicon/wen/favicon-36x36.png" /><link rel="icon" type="image/png" sizes="48x48" href="https://layout.eurosport.com/i/v8/favicon/wen/favicon-48x48.png" /><link rel="icon" type="image/png" sizes="72x72" href="https://layout.eurosport.com/i/v8/favicon/wen/favicon-72x72.png" /><link rel="icon" type="image/png" sizes="96x96" href="https://layout.eurosport.com/i/v8/favicon/wen/favicon-96x96.png" /><link rel="icon" type="image/png" sizes="144x144" href="https://layout.eurosport.com/i/v8/favicon/wen/favicon-144x144.png" /><link rel="icon" type="image/png" sizes="192x192" href="https://layout.eurosport.com/i/v8/favicon/wen/favicon-192x192.png" /><meta name="msapplication-TileColor" content="#131b4d" /><meta name="msapplication-TileImage" content="https://layout.eurosport.com/i/v8/favicon/wen/ms-icon-144x144.png" /><meta name="apple-itunes-app" content="app-id=324021126" /><meta name="google-play-app" content="app-id=com.eurosport&amp;hl=en" data-title="Eurosport" /><meta name="robots" content="index,follow,max-snippet:-1,max-image-preview:large,max-video-preview:-1" /><meta name="gsa:title" content="Eurosport" /><meta name="sport" content="Football" /><meta name="sportid" content="22" /><meta name="type" content="RecurringEvent" /><meta name="availableOn" content="all" /><script type="text/javascript">
+
+				(function() {
+					//If IE
+					if (typeof window.CustomEvent !== 'function') {
+						function CustomEvent(event, params) {
+							params = params || { bubbles: false, cancelable: false, detail: undefined };
+							var evt = document.createEvent('CustomEvent');
+							evt.initCustomEvent(event, params.bubbles, params.cancelable, params.detail);
+							return evt;
+						}
+
+						CustomEvent.prototype = window.Event.prototype;
+
+						window.CustomEvent = CustomEvent;
+
+					}
+				})();
+
+		</script><script type="text/javascript"><!--
+
+window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(21),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,s){try{p?p-=1:o(s||new UncaughtException(t,n,e),!0)}catch(f){try{i("ierr",[f,c.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t,n){var e=n?null:c.now();i("err",[t,e])}var i=t("handle"),a=t(22),s=t("ee"),c=t("loader"),f=t("gos"),u=window.onerror,d=!1,l="nr@seenError",p=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(9),t(8),"addEventListener"in window&&t(5),c.xhrWrappable&&t(10),d=!0)}s.on("fn-start",function(t,n,e){d&&(p+=1)}),s.on("fn-err",function(t,n,e){d&&!e[l]&&(f(e,l,function(){return!0}),this.thrown=!0,o(e))}),s.on("fn-end",function(){d&&!this.thrown&&p>0&&(p-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(9),s=t(8),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",g="pushState",y=t("loader");y.features.stn=!0,t(7),"addEventListener"in window&&t(5);var x=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof x&&(this.bstStart=y.now())}),o.on(w,function(t,n){var e=t[0];e instanceof x&&i("bst",[e,n,this.bstStart,y.now()])}),a.on(m,function(t,n,e){this.bstStart=y.now(),this.bstType=e}),a.on(w,function(t,n){i(v,[n,this.bstStart,y.now(),this.bstType])}),s.on(m,function(){this.bstStart=y.now()}),s.on(w,function(t,n){i(v,[n,this.bstStart,y.now(),"requestAnimationFrame"])}),o.on(g+p,function(t){this.time=y.now(),this.startPath=location.pathname+location.hash}),o.on(g+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t("wrap-function")(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){function r(t,n,e){var r=t[n];"function"==typeof r&&(t[n]=function(){var t=i(arguments),n={};o.emit(e+"before-start",[t],n);var a;n[m]&&n[m].dt&&(a=n[m].dt);var s=r.apply(this,t);return o.emit(e+"start",[t,a],s),s.then(function(t){return o.emit(e+"end",[null,t],s),t},function(t){throw o.emit(e+"end",[t],s),t})})}var o=t("ee").get("fetch"),i=t(22),a=t(21);n.exports=o;var s=window,c="fetch-",f=c+"body-",u=["arrayBuffer","blob","json","text","formData"],d=s.Request,l=s.Response,p=s.fetch,h="prototype",m="nr@context";d&&l&&p&&(a(u,function(t,n){r(d[h],n,f),r(l[h],n,f)}),r(s,"fetch",c),o.on(c+"end",function(t,n){var e=this;if(n){var r=n.headers.get("content-length");null!==r&&(e.rxSize=r),o.emit(c+"done",[null,n],e)}else o.emit(c+"done",[t],e)}))},{}],7:[function(t,n,e){var r=t("ee").get("history"),o=t("wrap-function")(r);n.exports=r;var i=window.history&&window.history.constructor&&window.history.constructor.prototype,a=window.history;i&&i.pushState&&i.replaceState&&(a=i),o.inPlace(a,["pushState","replaceState"],"-")},{}],8:[function(t,n,e){var r=t("ee").get("raf"),o=t("wrap-function")(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],9:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t("wrap-function")(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],10:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,g,"fn-",s)}function i(t){y.push(t),h&&(b?b.then(a):w?w(a):(E=-E,O.data=E))}function a(){for(var t=0;t<y.length;t++)r([],y[t]);y.length&&(y=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t("wrap-function")(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,w=l.SI,v="readystatechange",g=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],y=[];n.exports=u;var x=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(v,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,x),x.prototype=p.prototype,d.inPlace(x.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var b=m&&m.resolve();if(!w&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===v||a()})},{}],11:[function(t,n,e){function r(t){if(!i(t))return null;var n=window.NREUM;if(!n.loader_config)return null;var e=(n.loader_config.accountID||"").toString()||null,r=(n.loader_config.agentID||"").toString()||null,s=(n.loader_config.trustKey||"").toString()||null;if(!e||!r)return null;var c=a.generateCatId(),f=a.generateCatId(),u=Date.now(),d=o(c,f,u,e,r,s);return{header:d,guid:c,traceId:f,timestamp:u}}function o(t,n,e,r,o,i){var a="btoa"in window&&"function"==typeof window.btoa;if(!a)return null;var s={v:[0,1],d:{ty:"Browser",ac:r,ap:o,id:t,tr:n,ti:e}};return i&&r!==i&&(s.d.tk=i),btoa(JSON.stringify(s))}function i(t){var n=!1,e=!1,r={};if("init"in NREUM&&"distributed_tracing"in NREUM.init&&(r=NREUM.init.distributed_tracing,e=!!r.enabled),e)if(t.sameOrigin)n=!0;else if(r.allowed_origins instanceof Array)for(var o=0;o<r.allowed_origins.length;o++){var i=s(r.allowed_origins[o]);if(t.hostname===i.hostname&&t.protocol===i.protocol&&t.port===i.port){n=!0;break}}return e&&n}var a=t(19),s=t(13);n.exports={generateTracePayload:r,shouldGenerateTrace:i}},{}],12:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<l;r++)t.removeEventListener(d[r],this.listener,!1);n.aborted||(e.duration=a.now()-this.startTime,this.loadCaptureCalled||4!==t.readyState?null==n.status&&(n.status=0):i(this,t),e.cbTime=this.cbTime,u.emit("xhr-done",[t],t),s("xhr",[n,e,this.startTime]))}}function o(t,n){var e=c(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.parsedOrigin=c(n),t.sameOrigin=t.parsedOrigin.sameOrigin}function i(t,n){t.params.status=n.status;var e=w(n,t.lastSize);if(e&&(t.metrics.rxSize=e),t.sameOrigin){var r=n.getResponseHeader("X-NewRelic-App-Data");r&&(t.params.cat=r.split(", ").pop())}t.loadCaptureCalled=!0}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(13),f=t(11).generateTracePayload,u=t("ee"),d=["load","error","abort","timeout"],l=d.length,p=t("id"),h=t(17),m=t(16),w=t(14),v=window.XMLHttpRequest;a.features.xhr=!0,t(10),t(6),u.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,n.loadCaptureCalled=!1,t.addEventListener("load",function(e){i(n,t)},!1),h&&(h>34||h<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),u.on("open-xhr-start",function(t){this.params={method:t[0]},o(this,t[1]),this.metrics={}}),u.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid);var e=f(this.parsedOrigin);e&&e.header&&(n.setRequestHeader("newrelic",e.header),this.dt=e)}),u.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=m(r);i&&(e.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"!==t.type||o.loadCaptureCalled||(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}};for(var s=0;s<l;s++)n.addEventListener(d[s],this.listener,!1)}),u.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),u.on("xhr-load-added",function(t,n){var e=""+p(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),u.on("xhr-load-removed",function(t,n){var e=""+p(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),u.on("addEventListener-end",function(t,n){n instanceof v&&"load"===t[0]&&u.emit("xhr-load-added",[t[1],t[2]],n)}),u.on("removeEventListener-end",function(t,n){n instanceof v&&"load"===t[0]&&u.emit("xhr-load-removed",[t[1],t[2]],n)}),u.on("fn-start",function(t,n,e){n instanceof v&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),u.on("fn-end",function(t,n){this.xhrCbStart&&u.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,n],n)}),u.on("fetch-before-start",function(t){var n,e=t[1]||{};"string"==typeof t[0]?n=t[0]:t[0]&&t[0].url&&(n=t[0].url),n&&(this.parsedOrigin=c(n),this.sameOrigin=this.parsedOrigin.sameOrigin);var r=f(this.parsedOrigin);if(r&&r.header){var o=r.header;if("string"==typeof t[0]){var i={};for(var a in e)i[a]=e[a];i.headers=new Headers(e.headers||{}),i.headers.set("newrelic",o),this.dt=r,t.length>1?t[1]=i:t.push(i)}else t[0]&&t[0].headers&&(t[0].headers.append("newrelic",o),this.dt=r)}})}},{}],13:[function(t,n,e){var r={};n.exports=function(t){if(t in r)return r[t];var n=document.createElement("a"),e=window.location,o={};n.href=t,o.port=n.port;var i=n.href.split("://");!o.port&&i[1]&&(o.port=i[1].split("/")[0].split("@").pop().split(":")[1]),o.port&&"0"!==o.port||(o.port="https"===i[0]?"443":"80"),o.hostname=n.hostname||e.hostname,o.pathname=n.pathname,o.protocol=i[0],"/"!==o.pathname.charAt(0)&&(o.pathname="/"+o.pathname);var a=!n.protocol||":"===n.protocol||n.protocol===e.protocol,s=n.hostname===document.domain&&n.port===e.port;return o.sameOrigin=a&&(!n.hostname||s),"/"===o.pathname&&(r[t]=o),o}},{}],14:[function(t,n,e){function r(t,n){var e=t.responseType;return"json"===e&&null!==n?n:"arraybuffer"===e||"blob"===e||"json"===e?o(t.response):"text"===e||"document"===e||""===e||void 0===e?o(t.responseText):void 0}var o=t(16);n.exports=r},{}],15:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(21),s=t(22),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],e),t}finally{c.emit("fn-end",[f.now()],e)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t,n){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now(),!1,n])}},{}],16:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],17:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],18:[function(t,n,e){function r(t,n){var e=t.getEntries();e.forEach(function(t){"first-paint"===t.name?c("timing",["fp",Math.floor(t.startTime)]):"first-contentful-paint"===t.name&&c("timing",["fcp",Math.floor(t.startTime)])})}function o(t,n){var e=t.getEntries();e.length>0&&c("lcp",[e[e.length-1]])}function i(t){if(t instanceof u&&!l){var n,e=Math.round(t.timeStamp);n=e>1e12?Date.now()-e:f.now()-e,l=!0,c("timing",["fi",e,{type:t.type,fid:n}])}}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var a,s,c=t("handle"),f=t("loader"),u=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){a=new PerformanceObserver(r),s=new PerformanceObserver(o);try{a.observe({entryTypes:["paint"]}),s.observe({entryTypes:["largest-contentful-paint"]})}catch(d){}}if("addEventListener"in document){var l=!1,p=["click","keydown","mousedown","pointerdown","touchstart"];p.forEach(function(t){document.addEventListener(t,i,!1)})}}},{}],19:[function(t,n,e){function r(){function t(){return n?15&n[e++]:16*Math.random()|0}var n=null,e=0,r=window.crypto||window.msCrypto;r&&r.getRandomValues&&(n=r.getRandomValues(new Uint8Array(31)));for(var o,i="xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx",a="",s=0;s<i.length;s++)o=i[s],"x"===o?a+=t().toString(16):"y"===o?(o=3&t()|8,a+=o.toString(16)):a+=o;return a}function o(){function t(){return n?15&n[e++]:16*Math.random()|0}var n=null,e=0,r=window.crypto||window.msCrypto;r&&r.getRandomValues&&Uint8Array&&(n=r.getRandomValues(new Uint8Array(31)));for(var o=[],i=0;i<16;i++)o.push(t().toString(16));return o.join("")}n.exports={generateUuid:r,generateCatId:o}},{}],20:[function(t,n,e){function r(t,n){if(!o)return!1;if(t!==o)return!1;if(!n)return!0;if(!i)return!1;for(var e=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==e[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var s=navigator.userAgent,c=s.match(a);c&&s.indexOf("Chrome")===-1&&s.indexOf("Chromium")===-1&&(o="Safari",i=c[1])}n.exports={agent:o,version:i,match:r}},{}],21:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],22:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],23:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=m(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[y[e]];return d&&d.push([x,e,r,a]),a}}function p(t,n){g[t]=m(t).concat(n)}function h(t,n){var e=g[t];if(e)for(var r=0;r<e.length;r++)e[r]===n&&e.splice(r,1)}function m(t){return g[t]||[]}function w(t){return d[t]=d[t]||o(e)}function v(t,n){f(t,function(t,e){n=n||"feature",y[e]=n,n in u||(u[n]=[])})}var g={},y={},x={on:p,addEventListener:p,removeEventListener:h,emit:e,get:w,listeners:m,context:n,buffer:v,abort:a,aborted:!1};return x}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(21),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!E++){var t=b.info=NREUM.info,n=p.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(y,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+b.offset],null,"api");var e=p.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===p.readyState&&i()}function i(){c("mark",["domContent",a()+b.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-b.offset}var s=(new Date).getTime(),c=t("handle"),f=t(21),u=t("ee"),d=t(20),l=window,p=l.document,h="addEventListener",m="attachEvent",w=l.XMLHttpRequest,v=w&&w.prototype;NREUM.o={ST:setTimeout,SI:l.setImmediate,CT:clearTimeout,XHR:w,REQ:l.Request,EV:l.Event,PR:l.Promise,MO:l.MutationObserver};var g=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1167.min.js"},x=w&&v&&v[h]&&!/CriOS/.test(navigator.userAgent),b=n.exports={offset:s,now:a,origin:g,features:{},xhrWrappable:x,userAgent:d};t(15),t(18),p[h]?(p[h]("DOMContentLoaded",i,!1),l[h]("load",r,!1)):(p[m]("onreadystatechange",o),l[m]("onload",r)),c("mark",["firstbyte",s],null,"api");var E=0,O=t(23)},{}],"wrap-function":[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(22),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}]},{},["loader",2,12,4,3]);
+;NREUM.loader_config={accountID:"1979135",trustKey:"2006878",agentID:"132798876",licenseKey:"1343b65588",applicationID:"132798697"}
+;NREUM.info={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",licenseKey:"1343b65588",applicationID:"132798697",sa:1}
+
+        --></script><script src="//cdn.hubvisor.io/wrapper/01D8GVDX8B3A458J9TTH67A7CK/hubvisor.js"></script><script async="async" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script><script>
+			var googletag = googletag || {};
+			googletag.cmd = googletag.cmd || [];
+		</script><script><!--
+
+				void function(googletag, slotId, isDebug) {
+					var domain = 'com';
+					var device =
+
+		(function() {
+			var mobile = window.matchMedia('(max-width: 899px)').matches && 'mobile-web';
+			var tablet = window.matchMedia('(min-width: 900px) and (max-width: 1279px)').matches && 'tablet-web';
+			var desktop = window.matchMedia('(min-width: 1280px)').matches && 'desktop';
+
+			return mobile || tablet || desktop;
+		})();
+
+
+					var page_type = 'result';
+					var adunit_path = domain + '/' + device + '/' + page_type;
+					var logger = new Logger('[googleTagManagerHelper] ', isDebug);
+
+
+		var googletag_config = (function (device, page_type) {
+
+		var creatives = {
+
+			BANNER: {
+				name: 'banner',
+				sizes: getSizes(null, null, [320, 50])
+			},
+
+			BANNER_SPONSORSHIP: {
+				name: 'banner-sponsorship',
+				sizes: getSizes([[970, 250], [970, 90], [728, 90]], [728, 90], [320, 50])
+			},
+
+			MPU: {
+				name: 'mpu',
+				sizes: getSizes(
+					[[300, 250], [300, 600], 'fluid'],
+					[[300, 250], 'fluid'],
+					[[300, 250], 'fluid']
+				)
+			},
+
+			BETTING_BOX: {
+				name: 'betting-box',
+				sizes: getSizes(
+					[[300, 170], 'fluid'],
+					[[300, 170], 'fluid'],
+					null
+				)
+			},
+
+			INTERSTITIAL: {
+				name: 'interstitiel',
+				sizes: getSizes(['out-of-page'], ['out-of-page'], ['out-of-page'])
+			},
+
+			OUTSTREAM: {
+				name: 'outstream',
+				sizes: getSizes(
+					[[1,1], 'fluid'],
+					[[1,1], 'fluid'],
+					[[1,1], 'fluid']
+				)
+			},
+
+			BANNER_LIVEBOX: {
+				name: 'banner_livebox',
+				sizes: getSizes(
+					[[300, 250], [300, 600]],
+					[[300, 250]],
+					[[300, 250]]
+				)
+			}
+		};
+
+		var config = {
+			'desktop': {
+				'hp-main': buildBannerObj(creatives.BANNER_SPONSORSHIP, multiple(creatives.MPU, 3), creatives.BETTING_BOX, creatives.INTERSTITIAL, creatives.BANNER_LIVEBOX),
+				'hp-section': buildBannerObj(creatives.BANNER_SPONSORSHIP, multiple(creatives.MPU, 3), creatives.BETTING_BOX, creatives.INTERSTITIAL, creatives.BANNER_LIVEBOX),
+				'video': buildBannerObj(creatives.BANNER_SPONSORSHIP, creatives.MPU, creatives.BETTING_BOX, creatives.INTERSTITIAL),
+				'livestream': buildBannerObj(creatives.BANNER_SPONSORSHIP, creatives.MPU, creatives.INTERSTITIAL),
+				'article': buildBannerObj(creatives.BANNER_SPONSORSHIP, creatives.MPU, creatives.BETTING_BOX, creatives.INTERSTITIAL, creatives.OUTSTREAM),
+				'live': buildBannerObj(creatives.BANNER_SPONSORSHIP, creatives.MPU, creatives.BETTING_BOX, creatives.INTERSTITIAL, multiple(creatives.OUTSTREAM, 10)),
+				'result': buildBannerObj(creatives.BANNER_SPONSORSHIP, creatives.MPU, creatives.BETTING_BOX, creatives.INTERSTITIAL),
+				'other': buildBannerObj(creatives.BANNER_SPONSORSHIP, creatives.MPU, creatives.BETTING_BOX, creatives.INTERSTITIAL)
+			},
+			'tablet-web': {
+				'hp-main': buildBannerObj(creatives.BANNER_SPONSORSHIP, multiple(creatives.MPU, 3), creatives.BETTING_BOX, creatives.INTERSTITIAL, creatives.BANNER_LIVEBOX),
+				'hp-section': buildBannerObj(creatives.BANNER_SPONSORSHIP, multiple(creatives.MPU, 3), creatives.BETTING_BOX, creatives.INTERSTITIAL, creatives.BANNER_LIVEBOX),
+				'video': buildBannerObj(creatives.BANNER_SPONSORSHIP, creatives.MPU, creatives.BETTING_BOX, creatives.INTERSTITIAL),
+				'livestream': buildBannerObj(creatives.BANNER_SPONSORSHIP, creatives.MPU, creatives.INTERSTITIAL),
+				'article': buildBannerObj(creatives.BANNER_SPONSORSHIP, creatives.MPU, creatives.BETTING_BOX, creatives.INTERSTITIAL, creatives.OUTSTREAM),
+				'live': buildBannerObj(creatives.BANNER_SPONSORSHIP, multiple(creatives.MPU, 10), creatives.BETTING_BOX, creatives.INTERSTITIAL, multiple(creatives.OUTSTREAM, 10)),
+				'result': buildBannerObj(creatives.BANNER_SPONSORSHIP, creatives.MPU, creatives.INTERSTITIAL),
+				'other': buildBannerObj(creatives.BANNER_SPONSORSHIP, creatives.MPU, creatives.INTERSTITIAL)
+			},
+			'mobile-web': {
+				'hp-main': buildBannerObj(creatives.BANNER_SPONSORSHIP, multiple(creatives.BANNER, 3), multiple(creatives.MPU, 3), creatives.INTERSTITIAL, creatives.BANNER_LIVEBOX),
+        		'hp-section': buildBannerObj(creatives.BANNER_SPONSORSHIP, multiple(creatives.BANNER, 3), multiple(creatives.MPU, 3), creatives.INTERSTITIAL, creatives.BANNER_LIVEBOX),
+				'video': buildBannerObj(creatives.BANNER_SPONSORSHIP, creatives.INTERSTITIAL),
+				'livestream': buildBannerObj(creatives.BANNER_SPONSORSHIP, creatives.MPU, creatives.INTERSTITIAL),
+				'article': buildBannerObj(creatives.BANNER_SPONSORSHIP, creatives.MPU, creatives.INTERSTITIAL, creatives.OUTSTREAM),
+				'live': buildBannerObj(creatives.BANNER_SPONSORSHIP, multiple(creatives.BANNER, 10), creatives.MPU, creatives.INTERSTITIAL, multiple(creatives.OUTSTREAM, 10)),
+				'result': buildBannerObj(creatives.BANNER_SPONSORSHIP, creatives.BANNER, creatives.INTERSTITIAL),
+				'other': buildBannerObj(creatives.BANNER_SPONSORSHIP, creatives.BANNER, creatives.INTERSTITIAL)
+			}
+		};
+
+		function getSizes(desktop, tablet, mobile) {
+			return {
+				'desktop': desktop,
+				'tablet-web': tablet,
+				'mobile-web': mobile
+			}
+		}
+
+		function multiple(creative, times) {
+			return {
+				custom: creative,
+				count: times
+			}
+		}
+
+		function buildBannerObj() {
+			var banner = {};
+			var args = Array.prototype.slice.call(arguments, 0);
+
+			args.forEach(function (creativeObj) {
+
+				var obj = creativeObj,
+					count = 1;
+
+				if (creativeObj.custom) {
+					obj = creativeObj.custom;
+					count = creativeObj.count
+				}
+
+				if (banner[obj.name]) return;
+
+				banner[obj.name] = {
+					creative: obj,
+					count: count
+				};
+
+			});
+
+			return banner;
+		}
+
+		var bannerSetup = Object.keys(config).indexOf(device) !== -1 ? config[device][page_type] || {} : {};
+
+		logger.log('- - -banners setup: ', bannerSetup);
+
+		return bannerSetup
+
+	})(device, page_type);
+
+
+
+			(function(googletag_config, adUnitPath, slotId, keyValues, module, exposeFnName) {
+
+				var availableSlots = {};
+
+				if (!isValidParams(arguments)) return;
+
+				var argsPerSlot = getAllSlotsParams(googletag_config);
+
+				if (argsPerSlot.length === 0) {
+					logger.error('no slots configured for the page');
+					return;
+				}
+
+				googletag.cmd.push(function () {
+					initAllSlots(argsPerSlot);
+					initKeyValues(keyValues);
+
+
+
+		googletag.pubads().enableLazyLoad({
+		fetchMarginPercent: 50,
+		renderMarginPercent: 20
+		});
+
+		googletag.pubads().disableInitialLoad();
+		googletag.enableServices();
+		googletag.pubads().addEventListener('slotOnload', function(event) {
+		if ( event.slot.getSlotElementId().indexOf('interstitiel') !== -1) {
+		document.getElementById(event.slot.getSlotElementId()).style.position = 'static';
+		}
+		});
+		googletag.pubads().addEventListener('slotRenderEnded', function(event) {
+		var emptyClassName = 'slot-empty';
+		var slot = document.getElementById(event.slot.getSlotElementId());
+		var slotName = event.slot.getAdUnitPath();
+
+		if (slotName.indexOf('interstitiel') !== -1 ) return;
+
+		if ( event.isEmpty) {
+		slot.classList.add(emptyClassName);
+		} else {
+		slot.classList.remove(emptyClassName);
+		}
+		});
+		});
+
+		function getAllSlotsParams(adPlacements) {
+
+		var defineSlotArgs = [];
+
+		Object.keys(adPlacements).forEach(function (key) {
+
+		var placement = adPlacements[key];
+		var sizes = placement.creative.sizes[device];
+		if (sizes === null) return;
+
+
+		if (placement.count > 1) {
+		for (var i = 1; i <= placement.count; i++) {
+		defineSlotArgs.push({
+		name: placement.creative.name,
+		adUnitPath: '/' + slotId + '/' + adUnitPath + '/' + key,
+		size: sizes,
+		optDiv: 'ad-' + key + '-' + i + '-' + device[0]
+		});
+		}
+		} else {
+		defineSlotArgs.push({
+		name: placement.creative.name,
+		adUnitPath: '/' + slotId + '/' + adUnitPath + '/' + key,
+		size: sizes,
+		optDiv: 'ad-' + key + '-' + device[0]
+		});
+		}
+		});
+
+		return defineSlotArgs
+		}
+
+		function initAllSlots(defineSlotArgs) {
+
+		defineSlotArgs.forEach(function (defineSlotparam) {
+
+		var slot;
+
+		if (defineSlotparam.size) {
+		logger.log('- - -adplacements setup: ', defineSlotparam.adUnitPath, defineSlotparam.size, defineSlotparam.optDiv);
+
+		if (defineSlotparam.name === 'interstitiel') {
+		slot = googletag.defineOutOfPageSlot(defineSlotparam.adUnitPath, defineSlotparam.optDiv).addService(googletag.pubads());
+		} else {
+		slot = googletag.defineSlot(defineSlotparam.adUnitPath, defineSlotparam.size, defineSlotparam.optDiv).addService(googletag.pubads());
+		}
+		}
+
+		if (slot) {
+		availableSlots[defineSlotparam.optDiv] = slot;
+		}
+		});
+		}
+
+		function initKeyValues(keyValues) {
+		for (var key in keyValues) {
+		if (keyValues.hasOwnProperty(key)) {
+		googletag.pubads().setTargeting(key, keyValues[key]);
+		}
+		}
+
+		logger.log('- - -key-values setup: ', keyValues);
+		}
+
+		function isValidParams(args) {
+		if (args.length < 3) {
+						logger.error('not all params provided: expect config, adUnitPath, slotId, keyValues[optional]');
+						return false;
+					}
+
+					return true
+				}
+
+				function refreshSlot(slotId) {
+					var slot = availableSlots[slotId];
+					if(typeof googletag.pubads === 'undefined' || !slot) return;
+
+					var shouldRefresh = document.getElementById(slot.getSlotElementId()).className.indexOf('no-refresh') === -1;
+					if(shouldRefresh) {
+						slot.setTargeting('autorefresh', 'on');
+
+						googletag.pubads().clear([slot]);
+
+						googletag.pubads().refresh([slot]);
+					}
+				}
+
+				window[module] = window[module] || {};
+				window[module][exposeFnName] = refreshSlot;
+
+			})(googletag_config, adunit_path, slotId,
+
+		{
+
+			sport:'22',
+
+			recurring_event:'375',
+
+		}
+	,'__es_gtm_helper','refresh_ad');
+
+		(function tagmanagerAdsDisplay(googleTagConfig, device, module, exposeFnName) {
+			var availableSlots = Object.keys(googleTagConfig).reduce(function(acc, curr) {
+				var entity = googleTagConfig[curr];
+				acc[entity.creative.name] = acc[entity.creative.name] || { totalCount: entity.count, currentCount: 1};
+				return acc;
+			}, {});
+
+			function initAdPlaceholder(options) {
+
+				var slotId = options.slotId,
+					refresh = options.refresh,
+					placementId = options.placementId,
+					el = document.querySelector("[data-adplacement-id='" + placementId + "']");
+
+				if (el === null) return;
+
+				el.className = el.getAttribute('data-class');
+				el.id = slotId;
+
+				if (refresh) {
+						window.__es_gtm_helper.refresh_ad(slotId);
+				} else {
+					googletag.cmd.push(function() {
+						googletag.display(slotId)
+					});
+				}
+			}
+
+			function injectAd(adSlotType, placementId, isNoMobile, isNoTablet, isNoDesktop) {
+				var adConfig = availableSlots[adSlotType] || null,
+					slotId;
+
+				if (adConfig === null ) return;
+
+				if (isNoMobile && device === 'mobile-web') return;
+				if (isNoTablet && device === 'tablet-web') return;
+				if (isNoDesktop && device === 'desktop') return;
+
+
+				if (adConfig.currentCount > adConfig.totalCount) {
+
+					for(var i = 0; i < adConfig.totalCount; i++) {
+						var _idx =  (adConfig.totalCount > 1 ? '-'+adConfig.currentCount : '') + '-' +device[0];
+						var _slotId = 'ad-'+adSlotType + _idx ;
+						if (document.getElementById(_slotId) === null) {
+							slotId = _slotId;
+							break;
+						}
+					}
+
+					if (slotId) {
+						initAdPlaceholder({placementId: placementId, slotId: slotId, refresh: true})
+					}
+				} else {
+
+					var adIndex  = (adConfig.totalCount > 1 ? '-'+adConfig.currentCount : '') + '-' +device[0];
+					var slotId = 'ad-'+adSlotType + adIndex;
+					adConfig.currentCount++;
+
+					initAdPlaceholder({placementId: placementId, slotId: slotId})
+				}
+
+
+
+			}
+
+			window[module] = window[module] || {};
+			window[module][exposeFnName] = injectAd;
+
+
+		})(googletag_config, device,'__es_gtm_helper','inject_ad');
+
+		function Logger(moduleName, isDebug) {
+
+			var _noop = function () {};
+			var _isDebug = typeof isDebug === 'undefined' ? true : isDebug;
+			this.log = _noop;
+			this.error = _noop;
+
+
+			if (_isDebug) {
+				this.log = console.log.bind(console, moduleName);
+				this.error = console.error.bind(console, moduleName);
+			}
+		}
+
+
+
+					window.googletag_page_type = page_type;
+				}(window.googletag, 21725585473,false);
+			--></script><script>var dataLayer = [{page_videos:[]}];</script><script src="//assets.adobedtm.com/launch-ENfafcae0a347c4298ab6405b89b7d09bf.min.js"></script>
+
+  </head>
+  <body class="cols-2 withsubnav with-watchbar withsdnav  theme-black">
+<!--googleoff: all-->
+<div id="wrapper">
+      <section id="top">
+        <header id="header">
+          <div class="header_v8_5"></div>
+        </header>
+        <nav id="nav">
+          <div class="nav_v8_5 sd_navigation"><ul class="sd_nav"><li class="sd_nav-item logo"><a class="sd_nav-item-link header-logo" href="https://www.eurosport.com"></a></li><li class="sd_nav-item sd_navigation_link"><a class="sd_nav-item-link" href="https://video.eurosport.com">Video</a></li><li class="sd_nav-item sd_navigation_link"><a class="sd_nav-item-link" href="/score-center.shtml">Results</a></li><li class="sd_nav-item __popular-sport highlighted"><a class="sd_nav-item-link" href="/football/">Football</a></li><li class="sd_nav-item __popular-sport"><a class="sd_nav-item-link" href="/cycling/">Cycling</a></li><li class="sd_nav-item __popular-sport"><a class="sd_nav-item-link" href="/olympics/">Olympics</a></li><li class="sd_nav-item sd_navigation_link all-sports __hidden-xs"><span class="sd_nav-item-link">All sports<span class="svg-font svg-arrow-down-comments"></span></span><ul class="sd_modalnav__rightcol"><li class="modalnav__rightcol-container sports-list" data-tab="sports-list"><div class="list-container"><span class="modalnav__rightcol-listtitle">Most popular sports</span><ul class="popular-nav"><li class="modalnav__rightcol-item"><a href="/football/">Football</a></li><li class="modalnav__rightcol-item"><a href="/cycling/">Cycling</a></li><li class="modalnav__rightcol-item"><a href="/olympics/">Olympics</a></li><li class="modalnav__rightcol-item"><a href="/tennis/">Tennis</a></li><li class="modalnav__rightcol-item"><a href="/snooker/">Snooker</a></li><li class="modalnav__rightcol-item"><a href="/allmotorsports/">Motorsports</a></li><li class="modalnav__rightcol-item"><a href="/winter-sports/">Winter Sports</a></li></ul></div><div class="list-container"><span class="modalnav__rightcol-listtitle">All sports</span><ul class="allsports-single-d desktop-nav"><li class="modalnav__rightcol-item"><a href="/athletics/">Athletics</a></li><li class="modalnav__rightcol-item"><a href="/british-superbikes/">BSB</a></li><li class="modalnav__rightcol-item"><a href="/cricket/">Cricket</a></li><li class="modalnav__rightcol-item"><a href="/cycling/">Cycling</a></li><li class="modalnav__rightcol-item"><a href="/darts/">Darts</a></li><li class="modalnav__rightcol-item"><a href="/equestrian/">Equestrian</a></li><li class="modalnav__rightcol-item"><a href="/formula-1/">F1</a></li><li class="modalnav__rightcol-item"><a href="/football/">Football</a></li><li class="modalnav__rightcol-item"><a href="/formula-e/">Formula E</a></li><li class="modalnav__rightcol-item"><a href="/horse-racing/">Horse Racing</a></li><li class="modalnav__rightcol-item"><a href="/judo/">Judo</a></li><li class="modalnav__rightcol-item"><a href="/allmotorsports/">Motorsports</a></li><li class="modalnav__rightcol-item"><a href="/olympics/">Olympics</a></li><li class="modalnav__rightcol-item"><a href="/rugby/">Rugby</a></li><li class="modalnav__rightcol-item"><a href="/snooker/">Snooker</a></li><li class="modalnav__rightcol-item"><a href="/speedway/">Speedway</a></li><li class="modalnav__rightcol-item"><a href="/squash/">Squash</a></li><li class="modalnav__rightcol-item"><a href="/superbikes/">Superbikes</a></li><li class="modalnav__rightcol-item"><a href="/tennis/">Tennis</a></li><li class="modalnav__rightcol-item"><a href="/football/transfers/">Transfers</a></li><li class="modalnav__rightcol-item"><a href="/university-sports/">University Sports</a></li><li class="modalnav__rightcol-item"><a href="/winter-sports/">Winter Sports</a></li></ul></div></li></ul></li><li class="sd-right_elements"><div class="sd_nav-item sd_nav-account __hidden-xs"><div><div class="sd_profile hidden-all"><a href="https://auth.eurosport.com/my-account"><span class="svg-font svg-account"></span><span class="sd_nav-account-text">My Account</span></a></div><div class="sd_profile"><a href="https://auth.eurosport.com/login"><span class="svg-font svg-account"></span><span class="sd_nav-account-text">Sign in</span></a></div></div></div><div class="sd_nav-item sd_nav-legal __hidden-xs"><div class="sd_nav-legal-wrapper"><span class="sd_nav-legal-text">More</span><span class="svg-font svg-arrow-down-comments"></span></div><div class="sd_nav-legal-links"><h3 class="sd_nav-legal-links-title">Change Version</h3><ul class="sd_nav-language language-list" data-tab="language-list"><div class="sd_nav-language-container"><div class="sd_nav-language-list"><div class="sd_nav-language-list-current"><span class="listtitle">International (English)</span><span class="svg-font svg-arrow-down-language"></span></div><ul class="sd_nav-language-list-wrapper"><li class="sd_nav-language-list-wrapper-item activated"><a href="https://www.eurosport.com/?eso_no_redirect=1">International (English)</a></li><li class="sd_nav-language-list-wrapper-item"><a href="https://espanol.eurosport.com/?eso_no_redirect=1">Internacional (Español)</a></li><li class="sd_nav-language-list-wrapper-item"><a href="https://www.eurosport.bg/">България</a></li><li class="sd_nav-language-list-wrapper-item"><a href="https://www.eurosport.cz/">Česko</a></li><li class="sd_nav-language-list-wrapper-item"><a href="https://www.eurosport.dk/">Danmark</a></li><li class="sd_nav-language-list-wrapper-item"><a href="https://www.eurosport.de/">Deutschland</a></li><li class="sd_nav-language-list-wrapper-item"><a href="https://www.eurosport.nl/">Dutch</a></li><li class="sd_nav-language-list-wrapper-item"><a href="https://www.eurosport.es/">España</a></li><li class="sd_nav-language-list-wrapper-item"><a href="https://www.eurosport.fi/">Eesti Vabariik</a></li><li class="sd_nav-language-list-wrapper-item"><a href="https://www.eurosport.fr/">France</a></li><li class="sd_nav-language-list-wrapper-item"><a href="https://www.eurosport.it/">Italia</a></li><li class="sd_nav-language-list-wrapper-item"><a href="https://www.eurosport.hu/">Magyarország</a></li><li class="sd_nav-language-list-wrapper-item"><a href="https://www.eurosport.no/">Norge</a></li><li class="sd_nav-language-list-wrapper-item"><a href="https://www.eurosport.ru/">Россия</a></li><li class="sd_nav-language-list-wrapper-item"><a href="http://tv.eurosport.pl/">Polska</a></li><li class="sd_nav-language-list-wrapper-item"><a href="http://eurosport.tvn24.pl">Polska TVN24</a></li><li class="sd_nav-language-list-wrapper-item"><a href="https://www.eurosport.pt/">Portuguese</a></li><li class="sd_nav-language-list-wrapper-item"><a href="https://www.eurosport.ro/">România</a></li><li class="sd_nav-language-list-wrapper-item"><a href="https://www.eurosport.rs/">Srbija</a></li><li class="sd_nav-language-list-wrapper-item"><a href="https://www.eurosport.com.tr/">Türkiye</a></li><li class="sd_nav-language-list-wrapper-item"><a href="https://www.eurosport.co.uk/">United Kingdom</a></li></ul></div></div></ul><ul class="sd_nav-legal-links-topblock"><li class="sd_nav-legal-links-topblock-content"><a class="sd_nav-legal-links-topblock-content-link" href="https://help.eurosport.com/hc/en-gb">Help Center</a></li></ul><div class="sd_nav-legal-links-content"><ul class="sd_nav-legal-links-content-block"><li><span class="sd_nav-legal-links-content-title">More</span></li><li><span class="sd_nav-legal-links-content-title">About Us</span><ul><li><a class="sd_nav-legal-links-content-link" href="http://corporate.eurosport.com">About Eurosport</a></li><li><a class="sd_nav-legal-links-content-link" href="/mobiles-apps.shtml">Mobile Apps</a></li></ul></li><li><span class="sd_nav-legal-links-content-title">Legal Information</span><ul><li><a class="sd_nav-legal-links-content-link" href="/eurosport/legal/2020-2021/terms-of-use-effective-1-april-2020_sto7711034/story.shtml">Terms of Use</a></li><li><a class="sd_nav-legal-links-content-link" href="/eurosport/legal/2020-2021/privacy-policy_sto7706601/story.shtml">Privacy Policy</a></li><li><a class="sd_nav-legal-links-content-link" href="/eurosport/legal/2020-2021/legal-information_sto7710100/story.shtml">Legal Information</a></li><li><a class="sd_nav-legal-links-content-link" href="/eurosport/legal/2020-2021/cookie-policy_sto7702916/story.shtml">Cookie Policy</a></li><li><a class="sd_nav-legal-links-content-link" href="/eurosport/legal/2020-2021/pass-information_sto7707294/story.shtml">Eurosport Pass Information</a></li><li><a class="sd_nav-legal-links-content-link" href="https://corporate.discovery.com/discoverys-modern-slavery-statement/">Modern Slavery Statement</a></li><li class="ot-sdk-show-settings"><span class="sd_nav-legal-links-content-link">Manage Preferences</span></li></ul></li></ul></div><div><span class="sd_nav-socials-list-item __title">Follow us on</span><ul class="sd_nav-socials-list"><li class="sd_nav-socials-list-item"><a class="sd_nav-socials-list-icon" href="//facebook.com/Eurosport"><span class="svg-font-container facebook"><span class="svg-font svg-facebook-white"></span></span></a></li><li class="sd_nav-socials-list-item"><a class="sd_nav-socials-list-icon" href="//twitter.com/Eurosport"><span class="svg-font-container twitter"><span class="svg-font svg-twitter-white"></span></span></a></li><li class="sd_nav-socials-list-item"><a class="sd_nav-socials-list-icon" href="//www.snapchat.com/add/eurosport"><span class="svg-font-container snapchat"><span class="svg-font svg-snapchat-black"></span></span></a></li><li class="sd_nav-socials-list-item"><a class="sd_nav-socials-list-icon" href="//www.instagram.com/eurosport/"><span class="svg-font-container instagram"><span class="svg-font svg-instagram-white"></span></span></a></li></ul></div></div></div><div class="sd_nav-menu"><span class="menu-mobile-target">Menu</span></div></li><li class="sd-hamburger-menu-container"><div class="sd-hamburger-menu-container-head"><div class="sd-hamburger-menu-container-head-account"><div class="sd_profile hidden-all"><a href="https://auth.eurosport.com/my-account"><span class="svg-font svg-account"></span><span class="sd_nav-account-text">My Account</span></a></div><div class="sd_profile"><a href="https://auth.eurosport.com/login"><span class="svg-font svg-account"></span><span class="sd_nav-account-text">Sign in</span></a></div></div><div class="sd-hamburger-menu-container-head-close"><div class="sd-hamburger-menu-container-head-close-icon"></div></div></div><ul class="sd-hamburger-menu-container-content"><li><a href="https://www.eurosport.com">Home</a></li><li class="sd_nav-item sd_navigation_link"><a class="sd_nav-item-link" href="https://video.eurosport.com">Video</a></li><li class="sd_nav-item sd_navigation_link"><a class="sd_nav-item-link" href="/score-center.shtml">Results</a></li><li class="sd-hamburger-menu-container-content-sportlist sports-list" data-tab="sports-list"><div class="list-container"><span class="modalnav__rightcol-listtitle">Most popular sports</span><ul class="popular-mobile"><li class="modalnav__rightcol-item hasSubitem highlighted"><a href="/football/">Football<span class="svg-font svg-arrow-down-comments"></span></a><ul class="sub-item-container"><li class="sub-item-container-list"><a href="/football/">Football home</a></li><li class="sub-item-container-list"><a href="/football/score-center.shtml">Fixtures - Results</a></li><li class="sub-item-container-list"><a href="/football/transfers/">Transfers</a></li><li class="sub-item-container-list"><a href="/football/transfers/2019-2020/transfer-news-live_sto7819443/story.shtml">Transfer news LIVE</a></li><li class="sub-item-container-list"><a href="/football/premier-league/">Premier League</a></li><li class="sub-item-container-list"><a href="/football/champions-league/">Champions League</a></li><li class="sub-item-container-list"><a href="/football/europa-league/">Europa League</a></li><li class="sub-item-container-list"><a class="highlighted" href="/football/euro/">Euro 2020</a></li><li class="sub-item-container-list"><a href="/football/all-leagues_mni103171/menu.shtml">All Leagues</a></li><li class="sub-item-container-list"><a href="/football/countrylist.shtml">National competitions</a></li></ul></li><li class="modalnav__rightcol-item hasSubitem"><a href="/cycling/">Cycling<span class="svg-font svg-arrow-down-comments"></span></a><ul class="sub-item-container"><li class="sub-item-container-list"><a href="/cycling/">Cycling home</a></li><li class="sub-item-container-list"><a href="/cycling/score-center.shtml">Fixtures - Results</a></li><li class="sub-item-container-list"><a href="/cycling/calendar-result.shtml">Races – Results</a></li><li class="sub-item-container-list"><a href="/cycling/tour-de-france/">Tour de France</a></li><li class="sub-item-container-list"><a href="https://video.eurosport.co.uk/cycling/video-channel/the-bradley-wiggins-show/">The Bradley Wiggins Show</a></li><li class="sub-item-container-list"><a href="/cycling/all-competitions_mni103177/menu.shtml">All Competitions</a></li></ul></li><li class="modalnav__rightcol-item hasSubitem"><a href="/olympics/">Olympics<span class="svg-font svg-arrow-down-comments"></span></a><ul class="sub-item-container"><li class="sub-item-container-list"><a href="/olympics/">Olympics home</a></li><li class="sub-item-container-list"><a href="/olympics/video-channel/olympic-channel/channel.shtml">Olympic Channel </a></li></ul></li><li class="modalnav__rightcol-item hasSubitem"><a href="/tennis/">Tennis<span class="svg-font svg-arrow-down-comments"></span></a><ul class="sub-item-container"><li class="sub-item-container-list"><a href="/tennis/">Tennis home</a></li><li class="sub-item-container-list"><a href="/tennis/score-center.shtml">Fixtures - Results</a></li><li class="sub-item-container-list"><a href="/tennis/australian-open/">Australian Open</a></li><li class="sub-item-container-list"><a href="/tennis/french-open/">Roland-Garros</a></li><li class="sub-item-container-list"><a href="/tennis/all-competitions_mni103180/menu.shtml">All Competitions</a></li></ul></li><li class="modalnav__rightcol-item hasSubitem"><a href="/snooker/">Snooker<span class="svg-font svg-arrow-down-comments"></span></a><ul class="sub-item-container"><li class="sub-item-container-list"><a href="/snooker/">Snooker home</a></li><li class="sub-item-container-list"><a href="/snooker/score-center.shtml">Fixtures - Results</a></li><li class="sub-item-container-list"><a href="/snooker/irish-open/">Northern Ireland Open</a></li><li class="sub-item-container-list"><a href="/snooker/all-championships_mni103186/menu.shtml">All Championships</a></li></ul></li><li class="modalnav__rightcol-item hasSubitem"><a href="/allmotorsports/">Motorsports<span class="svg-font svg-arrow-down-comments"></span></a><ul class="sub-item-container"><li class="sub-item-container-list"><a href="/allmotorsports/">Motorsports home</a></li><li class="sub-item-container-list"><a href="/allmotorsports/score-center.shtml">Fixtures - Results</a></li><li class="sub-item-container-list"><a href="/formula-1/">F1</a></li><li class="sub-item-container-list"><a href="/moto/">MotoGP</a></li><li class="sub-item-container-list"><a href="/motorsports/ford-bringontomorrow/">Ford Bring On Tomorrow</a></li><li class="sub-item-container-list"><a href="/formula-e/">Formula E</a></li><li class="sub-item-container-list"><a href="/allmotorsports/all-sports_mni103192/menu.shtml">All Sports</a></li></ul></li><li class="modalnav__rightcol-item hasSubitem"><a href="/winter-sports/">Winter Sports<span class="svg-font svg-arrow-down-comments"></span></a><ul class="sub-item-container"><li class="sub-item-container-list"><a href="/winter-sports/">Winter Sports home</a></li><li class="sub-item-container-list"><a href="/winter-sports/score-center.shtml">Fixtures - Results</a></li><li class="sub-item-container-list"><a href="/winter-sports/all-sports_mni103194/menu.shtml">All Sports</a></li></ul></li></ul></div><div class="list-container"><span class="modalnav__rightcol-listtitle">All sports</span><span class="show-all">Show All</span><ul class="allsports-single-d mobile-nav"><li class="modalnav__rightcol-item hasSubitem"><a href="/athletics/">Athletics<span class="svg-font svg-arrow-down-comments"></span></a><ul class="sub-item-container"><li class="sub-item-container-list"><a href="/athletics/">Athletics home</a></li><li class="sub-item-container-list"><a href="/athletics/score-center.shtml">Fixtures - Results</a></li><li class="sub-item-container-list"><a href="/athletics/diamond-league/">Diamond League</a></li><li class="sub-item-container-list"><a href="/athletics/world-athletics-championships/">World Championships</a></li><li class="sub-item-container-list"><a href="/athletics/world-indoor-championships/">World Indoor Championships</a></li><li class="sub-item-container-list"><a href="/athletics/all-competitions_mni103199/menu.shtml">All Competitions</a></li></ul></li><li class="modalnav__rightcol-item hasSubitem"><a href="/british-superbikes/">BSB<span class="svg-font svg-arrow-down-comments"></span></a><ul class="sub-item-container"><li class="sub-item-container-list"><a href="/british-superbikes/">BSB home</a></li><li class="sub-item-container-list"><a href="/british-superbikes/score-center.shtml">Fixtures - Results</a></li><li class="sub-item-container-list"><a href="/british-superbikes/british-superbikes/calendar-result.shtml">Calendar</a></li><li class="sub-item-container-list"><a href="/british-superbikes/british-superbikes/standing_sea93.shtml">Standings</a></li></ul></li><li class="modalnav__rightcol-item hasSubitem"><a href="/cricket/">Cricket<span class="svg-font svg-arrow-down-comments"></span></a><ul class="sub-item-container"><li class="sub-item-container-list"><a href="/cricket/">Cricket home</a></li><li class="sub-item-container-list"><a href="/cricket/score-center.shtml">Fixtures - Results</a></li></ul></li><li class="modalnav__rightcol-item hasSubitem"><a href="/cycling/">Cycling<span class="svg-font svg-arrow-down-comments"></span></a><ul class="sub-item-container"><li class="sub-item-container-list"><a href="/cycling/">Cycling home</a></li><li class="sub-item-container-list"><a href="/cycling/score-center.shtml">Fixtures - Results</a></li><li class="sub-item-container-list"><a href="/cycling/calendar-result.shtml">Races – Results</a></li><li class="sub-item-container-list"><a href="/cycling/tour-de-france/">Tour de France</a></li><li class="sub-item-container-list"><a href="https://video.eurosport.co.uk/cycling/video-channel/the-bradley-wiggins-show/">The Bradley Wiggins Show</a></li><li class="sub-item-container-list"><a href="/cycling/all-competitions_mni103177/menu.shtml">All Competitions</a></li></ul></li><li class="modalnav__rightcol-item hasSubitem"><a href="/darts/">Darts<span class="svg-font svg-arrow-down-comments"></span></a><ul class="sub-item-container"><li class="sub-item-container-list"><a href="/darts/">Darts home</a></li><li class="sub-item-container-list"><a href="/darts/score-center.shtml">Fixtures - Results</a></li></ul></li><li class="modalnav__rightcol-item hasSubitem"><a href="/equestrian/">Equestrian<span class="svg-font svg-arrow-down-comments"></span></a><ul class="sub-item-container"><li class="sub-item-container-list"><a href="/equestrian/">Equestrian home</a></li><li class="sub-item-container-list"><a href="/equestrian/score-center.shtml">Fixtures - Results</a></li></ul></li><li class="modalnav__rightcol-item hasSubitem"><a href="/formula-1/">F1<span class="svg-font svg-arrow-down-comments"></span></a><ul class="sub-item-container"><li class="sub-item-container-list"><a href="/formula-1/">F1 home</a></li><li class="sub-item-container-list"><a href="/formula-1/score-center.shtml">Fixtures - Results</a></li><li class="sub-item-container-list"><a href="/formula-1/world-championship-1/calendar-result.shtml">Calendar</a></li><li class="sub-item-container-list"><a href="/formula-1/world-championship-1/standing.shtml">Table</a></li><li class="sub-item-container-list"><a href="/formula-1/playerlist.shtml">Drivers</a></li></ul></li><li class="modalnav__rightcol-item hasSubitem highlighted"><a href="/football/">Football<span class="svg-font svg-arrow-down-comments"></span></a><ul class="sub-item-container"><li class="sub-item-container-list"><a href="/football/">Football home</a></li><li class="sub-item-container-list"><a href="/football/score-center.shtml">Fixtures - Results</a></li><li class="sub-item-container-list"><a href="/football/transfers/">Transfers</a></li><li class="sub-item-container-list"><a href="/football/transfers/2019-2020/transfer-news-live_sto7819443/story.shtml">Transfer news LIVE</a></li><li class="sub-item-container-list"><a href="/football/premier-league/">Premier League</a></li><li class="sub-item-container-list"><a href="/football/champions-league/">Champions League</a></li><li class="sub-item-container-list"><a href="/football/europa-league/">Europa League</a></li><li class="sub-item-container-list"><a class="highlighted" href="/football/euro/">Euro 2020</a></li><li class="sub-item-container-list"><a href="/football/all-leagues_mni103171/menu.shtml">All Leagues</a></li><li class="sub-item-container-list"><a href="/football/countrylist.shtml">National competitions</a></li></ul></li><li class="modalnav__rightcol-item hasSubitem"><a href="/formula-e/">Formula E<span class="svg-font svg-arrow-down-comments"></span></a><ul class="sub-item-container"><li class="sub-item-container-list"><a href="/formula-e/">Formula E home</a></li><li class="sub-item-container-list"><a href="/formula-e/score-center.shtml">Fixtures - Results</a></li><li class="sub-item-container-list"><a href="/formula-e/formula-e-championship/calendar-result.shtml">Calendar</a></li><li class="sub-item-container-list"><a href="/formula-e/formula-e-championship/standing.shtml">Rankings</a></li><li class="sub-item-container-list"><a href="/formula-e/fanboost/fanboost.shtml">Fanboost</a></li></ul></li><li class="modalnav__rightcol-item hasSubitem"><a href="/horse-racing/">Horse Racing<span class="svg-font svg-arrow-down-comments"></span></a><ul class="sub-item-container"><li class="sub-item-container-list"><a href="/horse-racing/">Horse Racing home</a></li><li class="sub-item-container-list"><a href="/horse-racing/score-center.shtml">Fixtures - Results</a></li></ul></li><li class="modalnav__rightcol-item hasSubitem"><a href="/judo/">Judo<span class="svg-font svg-arrow-down-comments"></span></a><ul class="sub-item-container"><li class="sub-item-container-list"><a href="/judo/">Judo home</a></li><li class="sub-item-container-list"><a href="/judo/score-center.shtml">Fixtures - Results</a></li></ul></li><li class="modalnav__rightcol-item hasSubitem"><a href="/allmotorsports/">Motorsports<span class="svg-font svg-arrow-down-comments"></span></a><ul class="sub-item-container"><li class="sub-item-container-list"><a href="/allmotorsports/">Motorsports home</a></li><li class="sub-item-container-list"><a href="/allmotorsports/score-center.shtml">Fixtures - Results</a></li><li class="sub-item-container-list"><a href="/formula-1/">F1</a></li><li class="sub-item-container-list"><a href="/moto/">MotoGP</a></li><li class="sub-item-container-list"><a href="/motorsports/ford-bringontomorrow/">Ford Bring On Tomorrow</a></li><li class="sub-item-container-list"><a href="/formula-e/">Formula E</a></li><li class="sub-item-container-list"><a href="/allmotorsports/all-sports_mni103192/menu.shtml">All Sports</a></li></ul></li><li class="modalnav__rightcol-item hasSubitem"><a href="/olympics/">Olympics<span class="svg-font svg-arrow-down-comments"></span></a><ul class="sub-item-container"><li class="sub-item-container-list"><a href="/olympics/">Olympics home</a></li><li class="sub-item-container-list"><a href="/olympics/video-channel/olympic-channel/channel.shtml">Olympic Channel </a></li></ul></li><li class="modalnav__rightcol-item hasSubitem"><a href="/rugby/">Rugby<span class="svg-font svg-arrow-down-comments"></span></a><ul class="sub-item-container"><li class="sub-item-container-list"><a href="/rugby/">Rugby home</a></li><li class="sub-item-container-list"><a href="/rugby/score-center.shtml">Fixtures - Results</a></li><li class="sub-item-container-list"><a href="/rugby/world-cup/">World Cup</a></li><li class="sub-item-container-list"><a href="/rugby/aviva-premiership/">Premiership</a></li><li class="sub-item-container-list"><a href="/rugby/rabodirect-pro12/">Guinness Pro 12</a></li><li class="sub-item-container-list"><a href="/rugby/all-leagues_mni103220/menu.shtml">All Leagues</a></li></ul></li><li class="modalnav__rightcol-item hasSubitem"><a href="/snooker/">Snooker<span class="svg-font svg-arrow-down-comments"></span></a><ul class="sub-item-container"><li class="sub-item-container-list"><a href="/snooker/">Snooker home</a></li><li class="sub-item-container-list"><a href="/snooker/score-center.shtml">Fixtures - Results</a></li><li class="sub-item-container-list"><a href="/snooker/irish-open/">Northern Ireland Open</a></li><li class="sub-item-container-list"><a href="/snooker/all-championships_mni103186/menu.shtml">All Championships</a></li></ul></li><li class="modalnav__rightcol-item hasSubitem"><a href="/speedway/">Speedway<span class="svg-font svg-arrow-down-comments"></span></a><ul class="sub-item-container"><li class="sub-item-container-list"><a href="/speedway/">Speedway home</a></li><li class="sub-item-container-list"><a href="/speedway/score-center.shtml">Fixtures - Results</a></li></ul></li><li class="modalnav__rightcol-item hasSubitem"><a href="/squash/">Squash<span class="svg-font svg-arrow-down-comments"></span></a><ul class="sub-item-container"><li class="sub-item-container-list"><a href="/squash/">Squash home</a></li><li class="sub-item-container-list"><a href="/squash/score-center.shtml">Fixtures - Results</a></li></ul></li><li class="modalnav__rightcol-item hasSubitem"><a href="/superbikes/">Superbikes<span class="svg-font svg-arrow-down-comments"></span></a><ul class="sub-item-container"><li class="sub-item-container-list"><a href="/superbikes/">Superbikes home</a></li><li class="sub-item-container-list"><a href="/superbikes/score-center.shtml">Fixtures - Results</a></li><li class="sub-item-container-list"><a href="/superbikes/world-championship-2/calendar-result.shtml">Calendar</a></li><li class="sub-item-container-list"><a href="/superbikes/world-championship-2/standing.shtml">Table</a></li></ul></li><li class="modalnav__rightcol-item hasSubitem"><a href="/tennis/">Tennis<span class="svg-font svg-arrow-down-comments"></span></a><ul class="sub-item-container"><li class="sub-item-container-list"><a href="/tennis/">Tennis home</a></li><li class="sub-item-container-list"><a href="/tennis/score-center.shtml">Fixtures - Results</a></li><li class="sub-item-container-list"><a href="/tennis/australian-open/">Australian Open</a></li><li class="sub-item-container-list"><a href="/tennis/french-open/">Roland-Garros</a></li><li class="sub-item-container-list"><a href="/tennis/all-competitions_mni103180/menu.shtml">All Competitions</a></li></ul></li><li class="modalnav__rightcol-item"><a href="/football/transfers/">Transfers</a></li><li class="modalnav__rightcol-item hasSubitem"><a href="/university-sports/">University Sports<span class="svg-font svg-arrow-down-comments"></span></a><ul class="sub-item-container"><li class="sub-item-container-list"><a href="/university-sports/">University Sports home</a></li><li class="sub-item-container-list"><a href="/university-sports/score-center.shtml">Fixtures - Results</a></li></ul></li><li class="modalnav__rightcol-item hasSubitem"><a href="/winter-sports/">Winter Sports<span class="svg-font svg-arrow-down-comments"></span></a><ul class="sub-item-container"><li class="sub-item-container-list"><a href="/winter-sports/">Winter Sports home</a></li><li class="sub-item-container-list"><a href="/winter-sports/score-center.shtml">Fixtures - Results</a></li><li class="sub-item-container-list"><a href="/winter-sports/all-sports_mni103194/menu.shtml">All Sports</a></li></ul></li></ul></div></li><li class="sd_nav-legal"><div class="sd_nav-legal-wrapper"><span class="sd_nav-legal-text">More</span><span class="show-all">Show All</span></div><div class="sd_nav-legal-links"><h3 class="sd_nav-legal-links-title">Change Version</h3><ul class="sd_nav-language language-list" data-tab="language-list"><div class="sd_nav-language-container"><div class="sd_nav-language-list"><div class="sd_nav-language-list-current"><span class="listtitle">International (English)</span><span class="svg-font svg-arrow-down-language"></span></div><ul class="sd_nav-language-list-wrapper"><li class="sd_nav-language-list-wrapper-item activated"><a href="https://www.eurosport.com/?eso_no_redirect=1">International (English)</a></li><li class="sd_nav-language-list-wrapper-item"><a href="https://espanol.eurosport.com/?eso_no_redirect=1">Internacional (Español)</a></li><li class="sd_nav-language-list-wrapper-item"><a href="https://www.eurosport.bg/">България</a></li><li class="sd_nav-language-list-wrapper-item"><a href="https://www.eurosport.cz/">Česko</a></li><li class="sd_nav-language-list-wrapper-item"><a href="https://www.eurosport.dk/">Danmark</a></li><li class="sd_nav-language-list-wrapper-item"><a href="https://www.eurosport.de/">Deutschland</a></li><li class="sd_nav-language-list-wrapper-item"><a href="https://www.eurosport.nl/">Dutch</a></li><li class="sd_nav-language-list-wrapper-item"><a href="https://www.eurosport.es/">España</a></li><li class="sd_nav-language-list-wrapper-item"><a href="https://www.eurosport.fi/">Eesti Vabariik</a></li><li class="sd_nav-language-list-wrapper-item"><a href="https://www.eurosport.fr/">France</a></li><li class="sd_nav-language-list-wrapper-item"><a href="https://www.eurosport.it/">Italia</a></li><li class="sd_nav-language-list-wrapper-item"><a href="https://www.eurosport.hu/">Magyarország</a></li><li class="sd_nav-language-list-wrapper-item"><a href="https://www.eurosport.no/">Norge</a></li><li class="sd_nav-language-list-wrapper-item"><a href="https://www.eurosport.ru/">Россия</a></li><li class="sd_nav-language-list-wrapper-item"><a href="http://tv.eurosport.pl/">Polska</a></li><li class="sd_nav-language-list-wrapper-item"><a href="http://eurosport.tvn24.pl">Polska TVN24</a></li><li class="sd_nav-language-list-wrapper-item"><a href="https://www.eurosport.pt/">Portuguese</a></li><li class="sd_nav-language-list-wrapper-item"><a href="https://www.eurosport.ro/">România</a></li><li class="sd_nav-language-list-wrapper-item"><a href="https://www.eurosport.rs/">Srbija</a></li><li class="sd_nav-language-list-wrapper-item"><a href="https://www.eurosport.com.tr/">Türkiye</a></li><li class="sd_nav-language-list-wrapper-item"><a href="https://www.eurosport.co.uk/">United Kingdom</a></li></ul></div></div></ul><ul class="sd_nav-legal-links-topblock"><li class="sd_nav-legal-links-topblock-content"><a class="sd_nav-legal-links-topblock-content-link" href="https://help.eurosport.com/hc/en-gb">Help Center</a></li></ul><div class="sd_nav-legal-links-content"><ul class="sd_nav-legal-links-content-block"><li><span class="sd_nav-legal-links-content-title">More</span></li><li><span class="sd_nav-legal-links-content-title">About Us</span><ul><li><a class="sd_nav-legal-links-content-link" href="http://corporate.eurosport.com">About Eurosport</a></li><li><a class="sd_nav-legal-links-content-link" href="/mobiles-apps.shtml">Mobile Apps</a></li></ul></li><li><span class="sd_nav-legal-links-content-title">Legal Information</span><ul><li><a class="sd_nav-legal-links-content-link" href="/eurosport/legal/2020-2021/terms-of-use-effective-1-april-2020_sto7711034/story.shtml">Terms of Use</a></li><li><a class="sd_nav-legal-links-content-link" href="/eurosport/legal/2020-2021/privacy-policy_sto7706601/story.shtml">Privacy Policy</a></li><li><a class="sd_nav-legal-links-content-link" href="/eurosport/legal/2020-2021/legal-information_sto7710100/story.shtml">Legal Information</a></li><li><a class="sd_nav-legal-links-content-link" href="/eurosport/legal/2020-2021/cookie-policy_sto7702916/story.shtml">Cookie Policy</a></li><li><a class="sd_nav-legal-links-content-link" href="/eurosport/legal/2020-2021/pass-information_sto7707294/story.shtml">Eurosport Pass Information</a></li><li><a class="sd_nav-legal-links-content-link" href="https://corporate.discovery.com/discoverys-modern-slavery-statement/">Modern Slavery Statement</a></li><li class="ot-sdk-show-settings"><span class="sd_nav-legal-links-content-link">Manage Preferences</span></li></ul></li></ul></div><div><span class="sd_nav-socials-list-item __title">Follow us on</span><ul class="sd_nav-socials-list"><li class="sd_nav-socials-list-item"><a class="sd_nav-socials-list-icon" href="//facebook.com/Eurosport"><span class="svg-font-container facebook"><span class="svg-font svg-facebook-white"></span></span></a></li><li class="sd_nav-socials-list-item"><a class="sd_nav-socials-list-icon" href="//twitter.com/Eurosport"><span class="svg-font-container twitter"><span class="svg-font svg-twitter-white"></span></span></a></li><li class="sd_nav-socials-list-item"><a class="sd_nav-socials-list-icon" href="//www.snapchat.com/add/eurosport"><span class="svg-font-container snapchat"><span class="svg-font svg-snapchat-black"></span></span></a></li><li class="sd_nav-socials-list-item"><a class="sd_nav-socials-list-icon" href="//www.instagram.com/eurosport/"><span class="svg-font-container instagram"><span class="svg-font svg-instagram-white"></span></span></a></li></ul></div></div></li></ul></li></ul><div class="sd-hamburger-overlay"></div></div>
+          <div class="nav_category_v8_5 sd-subnav"><div class="sd-subnav_wrapper"><div class="sd-subnav_inner"><div class="sd-subnav_slider"><ul class="sd-subnav_slider-content"><li class="sd-subnav_item sd-subnav_item--highlighted"><a href="/football/">Football</a></li><li class="sd-subnav_item sd-subnav_item--highlighted"><a href="/football/euro/">Euro 2020</a></li><li class="sd-subnav_item sd-subnav_item--active"><a href="/football/euro/score-center.shtml">Fixtures - Results</a></li><li class="sd-subnav_item"><a href="/football/euro/calendar-result.shtml">Group Stage</a></li><li class="sd-subnav_item"><a href="/football/euro/standingperson.shtml">Top scorers</a></li><li class="sd-subnav_item"><a href="/football/euro/palmares.shtml">Previous winners</a></li></ul></div><div class="sd-subnav_slider-controls"><div class="sd-subnav_slider-control-prev"></div><div class="sd-subnav_slider-control-next"></div></div></div></div></div>
+        </nav>
+      </section>
+      <section id="content-top">
+        <div class="adtech_placement_v8_5"><div data-adplacement-id="1439581811banner-sponsorship" data-ad-pos="banner-sponsorship" data-class="ad"><script><!--
+						!!window.__es_gtm_helper.inject_ad('banner-sponsorship','1439581811banner-sponsorship', !!false, !!false, !!false)
+					--></script></div><div data-adplacement-id="2023007343interstitiel" data-ad-pos="interstitiel" data-class="ad"><script><!--
+						!!window.__es_gtm_helper.inject_ad('interstitiel','2023007343interstitiel', !!false, !!false, !!false)
+					--></script></div></div>
+      </section>
+      <section id="content">
+        <section id="col-left">
+          <div class="col-content">
+            <div class="livebox_v8_5"><div id="livebox-page-type" data-sport="football" class="page-event sport-football" data-page="event"><h1 class="livebox-caption visible">Results</h1><div class="event"><a href="" class="event__link"><div class="event__logo"><img src="https://i.eurosport.com/_iss_/sport/football/competition/logo/small/177.png" alt="" title="Euro 2020" /></div><div class="event__name"><h3 class="event__name-text">Euro 2020 scores</h3></div></a></div><div class="livebox-nav"><div class="livebox-nav__live-btn"><div class="live-count " data-listen-event="todayUpdate" hidden=""><span class="live-count__text"><span aria-hidden="true" class="svg-icon-livebox-live"></span> </span><span class="live-count__number">1</span></div></div><div id="livebox-nav-dropdown" class="dropdown-block" data-label-selector=".dropdown-block__dropdown-text" data-elements-container-selector=".dropdown-block__content" data-elements-selector=".rounds-dropdown__round" data-selected-class="active" data-open-class="dropdown-block--open"><div class="dropdown-block__title"><span class="dropdown-block__dropdown-icon"><svg viewBox="0 0 32 32" class="svg-icon-livebox-calendar" xmlns="http://www.w3.org/2000/svg"><g><g><path d="M8 0H6v5h2V0zm20 3h-5v4h-4V3H9v4H5V3H2C.9 3 0 3.9 0 5v26c0 1.1.9 2 2 2h26c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-1 27H3V12h24v18zM22 0h-2v5h2V0zm-1 15h-5v5h5v-5zm-7 0H9v5h5v-5zm0 7H9v5h5v-5zm7 0h-5v5h5v-5z" class="svg-livebox-calendar" /></g></g></svg></span><span class="dropdown-block__dropdown-text">Group Stage</span><span class="dropdown-block__dropdown-arrow"></span></div><div class="dropdown-block__content"><div class="rounds-dropdown rounds-dropdown--list" hidden="" data-param-send="1" data-param-name="roundid"><div class="rounds-dropdown__rounds"><div data-round-id="5005" data-param-value="5005" data-label="Group Stage" class="rounds-dropdown__round current active" data-param-active="true"><span class="rounds-dropdown__round-name">Group Stage</span></div><div data-round-id="5003" data-param-value="5003" data-label="Last 16" class="rounds-dropdown__round"><span class="rounds-dropdown__round-name">Last 16</span></div><div data-round-id="5016" data-param-value="5016" data-label="Quarter-final" class="rounds-dropdown__round"><span class="rounds-dropdown__round-name">Quarter-final</span></div><div data-round-id="5150" data-param-value="5150" data-label="Semifinal" class="rounds-dropdown__round"><span class="rounds-dropdown__round-name">Semifinal</span></div><div data-round-id="5006" data-param-value="5006" data-label="Final" class="rounds-dropdown__round"><span class="rounds-dropdown__round-name">Final</span></div></div></div></div></div></div><div class="ajax-container" data-ajax-url="/_ajax_/live_v8_5/livebox_v8_5.zone?O2=1&amp;langueid=0&amp;domainid=135&amp;mime=text%2fxml&amp;dropletid=146&amp;sportid=22&amp;revid=375&amp;IsScoreCenterPage=True&amp;AdPageName=home&amp;SdNavigation=True&amp;SharedPageTheme=black&amp;DeviceType=desktop" data-event-name="events-calendar:dayClick"><span data-live-count="0" data-today="" class="live-button__data"></span><ul class="group-select"><li class="group-select__item selected" data-group="-1">All</li><li class="group-select__item" data-group="5003">A</li><li class="group-select__item" data-group="5004">B</li><li class="group-select__item" data-group="5007">C</li><li class="group-select__item" data-group="5008">D</li><li class="group-select__item" data-group="5009">E</li><li class="group-select__item" data-group="5010">F</li></ul><div class="group-wrapper" data-id="5003" data-name="Group A"><div class="group-name">Group A</div><div class="date-wrapper"><div class="date-caption">11/06/2021</div><div class="matches-wrapper"><div class="match"><a href="/football/euro-2020/2021/turkey-italy_mtc1109749/live.shtml"><div class="team  team--match" data-fav-entity="282_2"><div class="team__logo"><img data-lazy-type="isg" data-isg-lazy="https://i.eurosport.com/_iss_/geo/country/flag/medium/2786.png" alt="" class="isg-interchange lazyload national logo" /></div><div class="team__name">Turkey</div></div><div class="match__time"><div class="svg-icon-livebox-livecomment"></div>9:00 PM</div><div class="team  team--match team--match-away" data-fav-entity="283_2"><div class="team__logo"><img data-lazy-type="isg" data-isg-lazy="https://i.eurosport.com/_iss_/geo/country/flag/medium/2210.png" alt="" class="isg-interchange lazyload national logo" /></div><div class="team__name">Italy</div></div></a></div></div></div><div class="date-wrapper"><div class="date-caption">12/06/2021</div><div class="matches-wrapper"><div class="match"><a href="/football/euro-2020/2021/wales-switzerland_mtc1109748/live.shtml"><div class="team  team--match" data-fav-entity="564_2"><div class="team__logo"><img data-lazy-type="isg" data-isg-lazy="https://i.eurosport.com/_iss_/geo/country/flag/medium/4386.png" alt="" class="isg-interchange lazyload national logo" /></div><div class="team__name">Wales</div></div><div class="match__time"><div class="svg-icon-livebox-livecomment"></div>3:00 PM</div><div class="team  team--match team--match-away" data-fav-entity="555_2"><div class="team__logo"><img data-lazy-type="isg" data-isg-lazy="https://i.eurosport.com/_iss_/geo/country/flag/medium/2213.png" alt="" class="isg-interchange lazyload national logo" /></div><div class="team__name">Switzerland</div></div></a></div></div></div><div class="date-wrapper"><div class="date-caption">16/06/2021</div><div class="matches-wrapper"><div class="match"><a href="/football/euro-2020/2021/turkey-wales_mtc1109747/live.shtml"><div class="team  team--match" data-fav-entity="282_2"><div class="team__logo"><img data-lazy-type="isg" data-isg-lazy="https://i.eurosport.com/_iss_/geo/country/flag/medium/2786.png" alt="" class="isg-interchange lazyload national logo" /></div><div class="team__name">Turkey</div></div><div class="match__time"><div class="svg-icon-livebox-livecomment"></div>6:00 PM</div><div class="team  team--match team--match-away" data-fav-entity="564_2"><div class="team__logo"><img data-lazy-type="isg" data-isg-lazy="https://i.eurosport.com/_iss_/geo/country/flag/medium/4386.png" alt="" class="isg-interchange lazyload national logo" /></div><div class="team__name">Wales</div></div></a></div><div class="match"><a href="/football/euro-2020/2021/italy-switzerland_mtc1109746/live.shtml"><div class="team  team--match" data-fav-entity="283_2"><div class="team__logo"><img data-lazy-type="isg" data-isg-lazy="https://i.eurosport.com/_iss_/geo/country/flag/medium/2210.png" alt="" class="isg-interchange lazyload national logo" /></div><div class="team__name">Italy</div></div><div class="match__time"><div class="svg-icon-livebox-livecomment"></div>9:00 PM</div><div class="team  team--match team--match-away" data-fav-entity="555_2"><div class="team__logo"><img data-lazy-type="isg" data-isg-lazy="https://i.eurosport.com/_iss_/geo/country/flag/medium/2213.png" alt="" class="isg-interchange lazyload national logo" /></div><div class="team__name">Switzerland</div></div></a></div></div></div><div class="date-wrapper"><div class="date-caption">20/06/2021</div><div class="matches-wrapper"><div class="match"><a href="/football/euro-2020/2021/italy-wales_mtc1109744/live.shtml"><div class="team  team--match" data-fav-entity="283_2"><div class="team__logo"><img data-lazy-type="isg" data-isg-lazy="https://i.eurosport.com/_iss_/geo/country/flag/medium/2210.png" alt="" class="isg-interchange lazyload national logo" /></div><div class="team__name">Italy</div></div><div class="match__time"><div class="svg-icon-livebox-livecomment"></div>6:00 PM</div><div class="team  team--match team--match-away" data-fav-entity="564_2"><div class="team__logo"><img data-lazy-type="isg" data-isg-lazy="https://i.eurosport.com/_iss_/geo/country/flag/medium/4386.png" alt="" class="isg-interchange lazyload national logo" /></div><div class="team__name">Wales</div></div></a></div><div class="match"><a href="/football/euro-2020/2021/switzerland-turkey_mtc1109745/live.shtml"><div class="team  team--match" data-fav-entity="555_2"><div class="team__logo"><img data-lazy-type="isg" data-isg-lazy="https://i.eurosport.com/_iss_/geo/country/flag/medium/2213.png" alt="" class="isg-interchange lazyload national logo" /></div><div class="team__name">Switzerland</div></div><div class="match__time"><div class="svg-icon-livebox-livecomment"></div>6:00 PM</div><div class="team  team--match team--match-away" data-fav-entity="282_2"><div class="team__logo"><img data-lazy-type="isg" data-isg-lazy="https://i.eurosport.com/_iss_/geo/country/flag/medium/2786.png" alt="" class="isg-interchange lazyload national logo" /></div><div class="team__name">Turkey</div></div></a></div></div></div></div><div class="group-wrapper" data-id="5004" data-name="Group B"><div class="group-name">Group B</div><div class="date-wrapper"><div class="date-caption">12/06/2021</div><div class="matches-wrapper"><div class="match"><a href="/football/euro-2020/2021/denmark-finland_mtc1109755/live.shtml"><div class="team  team--match" data-fav-entity="290_2"><div class="team__logo"><img data-lazy-type="isg" data-isg-lazy="https://i.eurosport.com/_iss_/geo/country/flag/medium/2220.png" alt="" class="isg-interchange lazyload national logo" /></div><div class="team__name">Denmark</div></div><div class="match__time"><div class="svg-icon-livebox-livecomment"></div>6:00 PM</div><div class="team  team--match team--match-away" data-fav-entity="578_2"><div class="team__logo"><img data-lazy-type="isg" data-isg-lazy="https://i.eurosport.com/_iss_/geo/country/flag/medium/2237.png" alt="" class="isg-interchange lazyload national logo" /></div><div class="team__name">Finland</div></div></a></div><div class="match"><a href="/football/euro-2020/2021/belgium-russia_mtc1109754/live.shtml"><div class="team  team--match" data-fav-entity="280_2"><div class="team__logo"><img data-lazy-type="isg" data-isg-lazy="https://i.eurosport.com/_iss_/geo/country/flag/medium/2205.png" alt="" class="isg-interchange lazyload national logo" /></div><div class="team__name">Belgium</div></div><div class="match__time"><div class="svg-icon-livebox-livecomment"></div>9:00 PM</div><div class="team  team--match team--match-away" data-fav-entity="554_2"><div class="team__logo"><img data-lazy-type="isg" data-isg-lazy="https://i.eurosport.com/_iss_/geo/country/flag/medium/2204.png" alt="" class="isg-interchange lazyload national logo" /></div><div class="team__name">Russia</div></div></a></div></div></div><div class="date-wrapper"><div class="date-caption">16/06/2021</div><div class="matches-wrapper"><div class="match"><a href="/football/euro-2020/2021/finland-russia_mtc1109753/live.shtml"><div class="team  team--match" data-fav-entity="578_2"><div class="team__logo"><img data-lazy-type="isg" data-isg-lazy="https://i.eurosport.com/_iss_/geo/country/flag/medium/2237.png" alt="" class="isg-interchange lazyload national logo" /></div><div class="team__name">Finland</div></div><div class="match__time"><div class="svg-icon-livebox-livecomment"></div>3:00 PM</div><div class="team  team--match team--match-away" data-fav-entity="554_2"><div class="team__logo"><img data-lazy-type="isg" data-isg-lazy="https://i.eurosport.com/_iss_/geo/country/flag/medium/2204.png" alt="" class="isg-interchange lazyload national logo" /></div><div class="team__name">Russia</div></div></a></div></div></div><div class="date-wrapper"><div class="date-caption">17/06/2021</div><div class="matches-wrapper"><div class="match"><a href="/football/euro-2020/2021/denmark-belgium_mtc1109752/live.shtml"><div class="team  team--match" data-fav-entity="290_2"><div class="team__logo"><img data-lazy-type="isg" data-isg-lazy="https://i.eurosport.com/_iss_/geo/country/flag/medium/2220.png" alt="" class="isg-interchange lazyload national logo" /></div><div class="team__name">Denmark</div></div><div class="match__time"><div class="svg-icon-livebox-livecomment"></div>6:00 PM</div><div class="team  team--match team--match-away" data-fav-entity="280_2"><div class="team__logo"><img data-lazy-type="isg" data-isg-lazy="https://i.eurosport.com/_iss_/geo/country/flag/medium/2205.png" alt="" class="isg-interchange lazyload national logo" /></div><div class="team__name">Belgium</div></div></a></div></div></div><div class="date-wrapper"><div class="date-caption">21/06/2021</div><div class="matches-wrapper"><div class="match"><a href="/football/euro-2020/2021/finland-belgium_mtc1109750/live.shtml"><div class="team  team--match" data-fav-entity="578_2"><div class="team__logo"><img data-lazy-type="isg" data-isg-lazy="https://i.eurosport.com/_iss_/geo/country/flag/medium/2237.png" alt="" class="isg-interchange lazyload national logo" /></div><div class="team__name">Finland</div></div><div class="match__time"><div class="svg-icon-livebox-livecomment"></div>9:00 PM</div><div class="team  team--match team--match-away" data-fav-entity="280_2"><div class="team__logo"><img data-lazy-type="isg" data-isg-lazy="https://i.eurosport.com/_iss_/geo/country/flag/medium/2205.png" alt="" class="isg-interchange lazyload national logo" /></div><div class="team__name">Belgium</div></div></a></div><div class="match"><a href="/football/euro-2020/2021/russia-denmark_mtc1109751/live.shtml"><div class="team  team--match" data-fav-entity="554_2"><div class="team__logo"><img data-lazy-type="isg" data-isg-lazy="https://i.eurosport.com/_iss_/geo/country/flag/medium/2204.png" alt="" class="isg-interchange lazyload national logo" /></div><div class="team__name">Russia</div></div><div class="match__time"><div class="svg-icon-livebox-livecomment"></div>9:00 PM</div><div class="team  team--match team--match-away" data-fav-entity="290_2"><div class="team__logo"><img data-lazy-type="isg" data-isg-lazy="https://i.eurosport.com/_iss_/geo/country/flag/medium/2220.png" alt="" class="isg-interchange lazyload national logo" /></div><div class="team__name">Denmark</div></div></a></div></div></div></div><div class="group-wrapper" data-id="5007" data-name="Group C"><div class="group-name">Group C</div><div class="date-wrapper"><div class="date-caption">13/06/2021</div><div class="matches-wrapper"><div class="match"><a href="/football/euro-2020/2021/austria-north-macedonia_mtc1109760/live.shtml"><div class="team  team--match" data-fav-entity="575_2"><div class="team__logo"><img data-lazy-type="isg" data-isg-lazy="https://i.eurosport.com/_iss_/geo/country/flag/medium/2219.png" alt="" class="isg-interchange lazyload national logo" /></div><div class="team__name">Austria</div></div><div class="match__time"><div class="svg-icon-livebox-livecomment"></div>6:00 PM</div><div class="team  team--match team--match-away" data-fav-entity="561_2"><div class="team__logo"><img data-lazy-type="isg" data-isg-lazy="https://i.eurosport.com/_iss_/geo/country/flag/medium/4358.png" alt="" class="isg-interchange lazyload national logo" /></div><div class="team__name">North Macedonia</div></div></a></div><div class="match"><a href="/football/euro-2020/2021/netherlands-ukraine_mtc1109761/live.shtml"><div class="team  team--match" data-fav-entity="2648_2"><div class="team__logo"><img data-lazy-type="isg" data-isg-lazy="https://i.eurosport.com/_iss_/geo/country/flag/medium/2201.png" alt="" class="isg-interchange lazyload national logo" /></div><div class="team__name">Netherlands</div></div><div class="match__time"><div class="svg-icon-livebox-livecomment"></div>9:00 PM</div><div class="team  team--match team--match-away" data-fav-entity="2637_2"><div class="team__logo"><img data-lazy-type="isg" data-isg-lazy="https://i.eurosport.com/_iss_/geo/country/flag/medium/2232.png" alt="" class="isg-interchange lazyload national logo" /></div><div class="team__name">Ukraine</div></div></a></div></div></div><div class="date-wrapper"><div class="date-caption">17/06/2021</div><div class="matches-wrapper"><div class="match"><a href="/football/euro-2020/2021/ukraine-north-macedonia_mtc1109758/live.shtml"><div class="team  team--match" data-fav-entity="2637_2"><div class="team__logo"><img data-lazy-type="isg" data-isg-lazy="https://i.eurosport.com/_iss_/geo/country/flag/medium/2232.png" alt="" class="isg-interchange lazyload national logo" /></div><div class="team__name">Ukraine</div></div><div class="match__time"><div class="svg-icon-livebox-livecomment"></div>3:00 PM</div><div class="team  team--match team--match-away" data-fav-entity="561_2"><div class="team__logo"><img data-lazy-type="isg" data-isg-lazy="https://i.eurosport.com/_iss_/geo/country/flag/medium/4358.png" alt="" class="isg-interchange lazyload national logo" /></div><div class="team__name">North Macedonia</div></div></a></div><div class="match"><a href="/football/euro-2020/2021/netherlands-austria_mtc1109759/live.shtml"><div class="team  team--match" data-fav-entity="2648_2"><div class="team__logo"><img data-lazy-type="isg" data-isg-lazy="https://i.eurosport.com/_iss_/geo/country/flag/medium/2201.png" alt="" class="isg-interchange lazyload national logo" /></div><div class="team__name">Netherlands</div></div><div class="match__time"><div class="svg-icon-livebox-livecomment"></div>9:00 PM</div><div class="team  team--match team--match-away" data-fav-entity="575_2"><div class="team__logo"><img data-lazy-type="isg" data-isg-lazy="https://i.eurosport.com/_iss_/geo/country/flag/medium/2219.png" alt="" class="isg-interchange lazyload national logo" /></div><div class="team__name">Austria</div></div></a></div></div></div><div class="date-wrapper"><div class="date-caption">21/06/2021</div><div class="matches-wrapper"><div class="match"><a href="/football/euro-2020/2021/ukraine-austria_mtc1109756/live.shtml"><div class="team  team--match" data-fav-entity="2637_2"><div class="team__logo"><img data-lazy-type="isg" data-isg-lazy="https://i.eurosport.com/_iss_/geo/country/flag/medium/2232.png" alt="" class="isg-interchange lazyload national logo" /></div><div class="team__name">Ukraine</div></div><div class="match__time"><div class="svg-icon-livebox-livecomment"></div>6:00 PM</div><div class="team  team--match team--match-away" data-fav-entity="575_2"><div class="team__logo"><img data-lazy-type="isg" data-isg-lazy="https://i.eurosport.com/_iss_/geo/country/flag/medium/2219.png" alt="" class="isg-interchange lazyload national logo" /></div><div class="team__name">Austria</div></div></a></div><div class="match"><a href="/football/euro-2020/2021/north-macedonia-netherlands_mtc1109757/live.shtml"><div class="team  team--match" data-fav-entity="561_2"><div class="team__logo"><img data-lazy-type="isg" data-isg-lazy="https://i.eurosport.com/_iss_/geo/country/flag/medium/4358.png" alt="" class="isg-interchange lazyload national logo" /></div><div class="team__name">North Macedonia</div></div><div class="match__time"><div class="svg-icon-livebox-livecomment"></div>6:00 PM</div><div class="team  team--match team--match-away" data-fav-entity="2648_2"><div class="team__logo"><img data-lazy-type="isg" data-isg-lazy="https://i.eurosport.com/_iss_/geo/country/flag/medium/2201.png" alt="" class="isg-interchange lazyload national logo" /></div><div class="team__name">Netherlands</div></div></a></div></div></div></div><div class="group-wrapper" data-id="5008" data-name="Group D"><div class="group-name">Group D</div><div class="date-wrapper"><div class="date-caption">13/06/2021</div><div class="matches-wrapper"><div class="match"><a href="/football/euro-2020/2021/england-croatia_mtc1109767/live.shtml"><div class="team  team--match" data-fav-entity="136_2"><div class="team__logo"><img data-lazy-type="isg" data-isg-lazy="https://i.eurosport.com/_iss_/geo/country/flag/medium/2208.png" alt="" class="isg-interchange lazyload national logo" /></div><div class="team__name">England</div></div><div class="match__time"><div class="svg-icon-livebox-livecomment"></div>3:00 PM</div><div class="team  team--match team--match-away" data-fav-entity="571_2"><div class="team__logo"><img data-lazy-type="isg" data-isg-lazy="https://i.eurosport.com/_iss_/geo/country/flag/medium/4354.png" alt="" class="isg-interchange lazyload national logo" /></div><div class="team__name">Croatia</div></div></a></div></div></div><div class="date-wrapper"><div class="date-caption">14/06/2021</div><div class="matches-wrapper"><div class="match"><a href="/football/euro-2020/2021/scotland-czech-republic_mtc1109766/live.shtml"><div class="team  team--match" data-fav-entity="569_2"><div class="team__logo"><img data-lazy-type="isg" data-isg-lazy="https://i.eurosport.com/_iss_/geo/country/flag/medium/2245.png" alt="" class="isg-interchange lazyload national logo" /></div><div class="team__name">Scotland</div></div><div class="match__time"><div class="svg-icon-livebox-livecomment"></div>3:00 PM</div><div class="team  team--match team--match-away" data-fav-entity="289_2"><div class="team__logo"><img data-lazy-type="isg" data-isg-lazy="https://i.eurosport.com/_iss_/geo/country/flag/medium/2240.png" alt="" class="isg-interchange lazyload national logo" /></div><div class="team__name">Czech Republic</div></div></a></div></div></div><div class="date-wrapper"><div class="date-caption">18/06/2021</div><div class="matches-wrapper"><div class="match"><a href="/football/euro-2020/2021/croatia-czech-republic_mtc1109765/live.shtml"><div class="team  team--match" data-fav-entity="571_2"><div class="team__logo"><img data-lazy-type="isg" data-isg-lazy="https://i.eurosport.com/_iss_/geo/country/flag/medium/4354.png" alt="" class="isg-interchange lazyload national logo" /></div><div class="team__name">Croatia</div></div><div class="match__time"><div class="svg-icon-livebox-livecomment"></div>6:00 PM</div><div class="team  team--match team--match-away" data-fav-entity="289_2"><div class="team__logo"><img data-lazy-type="isg" data-isg-lazy="https://i.eurosport.com/_iss_/geo/country/flag/medium/2240.png" alt="" class="isg-interchange lazyload national logo" /></div><div class="team__name">Czech Republic</div></div></a></div><div class="match"><a href="/football/euro-2020/2021/england-scotland_mtc1109764/live.shtml"><div class="team  team--match" data-fav-entity="136_2"><div class="team__logo"><img data-lazy-type="isg" data-isg-lazy="https://i.eurosport.com/_iss_/geo/country/flag/medium/2208.png" alt="" class="isg-interchange lazyload national logo" /></div><div class="team__name">England</div></div><div class="match__time"><div class="svg-icon-livebox-livecomment"></div>9:00 PM</div><div class="team  team--match team--match-away" data-fav-entity="569_2"><div class="team__logo"><img data-lazy-type="isg" data-isg-lazy="https://i.eurosport.com/_iss_/geo/country/flag/medium/2245.png" alt="" class="isg-interchange lazyload national logo" /></div><div class="team__name">Scotland</div></div></a></div></div></div><div class="date-wrapper"><div class="date-caption">22/06/2021</div><div class="matches-wrapper"><div class="match"><a href="/football/euro-2020/2021/czech-republic-england_mtc1109762/live.shtml"><div class="team  team--match" data-fav-entity="289_2"><div class="team__logo"><img data-lazy-type="isg" data-isg-lazy="https://i.eurosport.com/_iss_/geo/country/flag/medium/2240.png" alt="" class="isg-interchange lazyload national logo" /></div><div class="team__name">Czech Republic</div></div><div class="match__time"><div class="svg-icon-livebox-livecomment"></div>9:00 PM</div><div class="team  team--match team--match-away" data-fav-entity="136_2"><div class="team__logo"><img data-lazy-type="isg" data-isg-lazy="https://i.eurosport.com/_iss_/geo/country/flag/medium/2208.png" alt="" class="isg-interchange lazyload national logo" /></div><div class="team__name">England</div></div></a></div><div class="match"><a href="/football/euro-2020/2021/croatia-scotland_mtc1109763/live.shtml"><div class="team  team--match" data-fav-entity="571_2"><div class="team__logo"><img data-lazy-type="isg" data-isg-lazy="https://i.eurosport.com/_iss_/geo/country/flag/medium/4354.png" alt="" class="isg-interchange lazyload national logo" /></div><div class="team__name">Croatia</div></div><div class="match__time"><div class="svg-icon-livebox-livecomment"></div>9:00 PM</div><div class="team  team--match team--match-away" data-fav-entity="569_2"><div class="team__logo"><img data-lazy-type="isg" data-isg-lazy="https://i.eurosport.com/_iss_/geo/country/flag/medium/2245.png" alt="" class="isg-interchange lazyload national logo" /></div><div class="team__name">Scotland</div></div></a></div></div></div></div><div class="group-wrapper" data-id="5009" data-name="Group E"><div class="group-name">Group E</div><div class="date-wrapper"><div class="date-caption">14/06/2021</div><div class="matches-wrapper"><div class="match"><a href="/football/euro-2020/2021/poland-slovakia_mtc1109772/live.shtml"><div class="team  team--match" data-fav-entity="567_2"><div class="team__logo"><img data-lazy-type="isg" data-isg-lazy="https://i.eurosport.com/_iss_/geo/country/flag/medium/2214.png" alt="" class="isg-interchange lazyload national logo" /></div><div class="team__name">Poland</div></div><div class="match__time"><div class="svg-icon-livebox-livecomment"></div>6:00 PM</div><div class="team  team--match team--match-away" data-fav-entity="562_2"><div class="team__logo"><img data-lazy-type="isg" data-isg-lazy="https://i.eurosport.com/_iss_/geo/country/flag/medium/2233.png" alt="" class="isg-interchange lazyload national logo" /></div><div class="team__name">Slovakia</div></div></a></div><div class="match"><a href="/football/euro-2020/2021/spain-sweden_mtc1109773/live.shtml"><div class="team  team--match" data-fav-entity="284_2"><div class="team__logo"><img data-lazy-type="isg" data-isg-lazy="https://i.eurosport.com/_iss_/geo/country/flag/medium/2203.png" alt="" class="isg-interchange lazyload national logo" /></div><div class="team__name">Spain</div></div><div class="match__time"><div class="svg-icon-livebox-livecomment"></div>9:00 PM</div><div class="team  team--match team--match-away" data-fav-entity="281_2"><div class="team__logo"><img data-lazy-type="isg" data-isg-lazy="https://i.eurosport.com/_iss_/geo/country/flag/medium/2222.png" alt="" class="isg-interchange lazyload national logo" /></div><div class="team__name">Sweden</div></div></a></div></div></div><div class="date-wrapper"><div class="date-caption">18/06/2021</div><div class="matches-wrapper"><div class="match"><a href="/football/euro-2020/2021/sweden-slovakia_mtc1109771/live.shtml"><div class="team  team--match" data-fav-entity="281_2"><div class="team__logo"><img data-lazy-type="isg" data-isg-lazy="https://i.eurosport.com/_iss_/geo/country/flag/medium/2222.png" alt="" class="isg-interchange lazyload national logo" /></div><div class="team__name">Sweden</div></div><div class="match__time"><div class="svg-icon-livebox-livecomment"></div>3:00 PM</div><div class="team  team--match team--match-away" data-fav-entity="562_2"><div class="team__logo"><img data-lazy-type="isg" data-isg-lazy="https://i.eurosport.com/_iss_/geo/country/flag/medium/2233.png" alt="" class="isg-interchange lazyload national logo" /></div><div class="team__name">Slovakia</div></div></a></div></div></div><div class="date-wrapper"><div class="date-caption">19/06/2021</div><div class="matches-wrapper"><div class="match"><a href="/football/euro-2020/2021/spain-poland_mtc1109770/live.shtml"><div class="team  team--match" data-fav-entity="284_2"><div class="team__logo"><img data-lazy-type="isg" data-isg-lazy="https://i.eurosport.com/_iss_/geo/country/flag/medium/2203.png" alt="" class="isg-interchange lazyload national logo" /></div><div class="team__name">Spain</div></div><div class="match__time"><div class="svg-icon-livebox-livecomment"></div>9:00 PM</div><div class="team  team--match team--match-away" data-fav-entity="567_2"><div class="team__logo"><img data-lazy-type="isg" data-isg-lazy="https://i.eurosport.com/_iss_/geo/country/flag/medium/2214.png" alt="" class="isg-interchange lazyload national logo" /></div><div class="team__name">Poland</div></div></a></div></div></div><div class="date-wrapper"><div class="date-caption">23/06/2021</div><div class="matches-wrapper"><div class="match"><a href="/football/euro-2020/2021/sweden-poland_mtc1109768/live.shtml"><div class="team  team--match" data-fav-entity="281_2"><div class="team__logo"><img data-lazy-type="isg" data-isg-lazy="https://i.eurosport.com/_iss_/geo/country/flag/medium/2222.png" alt="" class="isg-interchange lazyload national logo" /></div><div class="team__name">Sweden</div></div><div class="match__time"><div class="svg-icon-livebox-livecomment"></div>6:00 PM</div><div class="team  team--match team--match-away" data-fav-entity="567_2"><div class="team__logo"><img data-lazy-type="isg" data-isg-lazy="https://i.eurosport.com/_iss_/geo/country/flag/medium/2214.png" alt="" class="isg-interchange lazyload national logo" /></div><div class="team__name">Poland</div></div></a></div><div class="match"><a href="/football/euro-2020/2021/slovakia-spain_mtc1109769/live.shtml"><div class="team  team--match" data-fav-entity="562_2"><div class="team__logo"><img data-lazy-type="isg" data-isg-lazy="https://i.eurosport.com/_iss_/geo/country/flag/medium/2233.png" alt="" class="isg-interchange lazyload national logo" /></div><div class="team__name">Slovakia</div></div><div class="match__time"><div class="svg-icon-livebox-livecomment"></div>6:00 PM</div><div class="team  team--match team--match-away" data-fav-entity="284_2"><div class="team__logo"><img data-lazy-type="isg" data-isg-lazy="https://i.eurosport.com/_iss_/geo/country/flag/medium/2203.png" alt="" class="isg-interchange lazyload national logo" /></div><div class="team__name">Spain</div></div></a></div></div></div></div><div class="group-wrapper" data-id="5010" data-name="Group F"><div class="group-name">Group F</div><div class="date-wrapper"><div class="date-caption">15/06/2021</div><div class="matches-wrapper"><div class="match"><a href="/football/euro-2020/2021/hungary-portugal_mtc1109779/live.shtml"><div class="team  team--match" data-fav-entity="437_2"><div class="team__logo"><img data-lazy-type="isg" data-isg-lazy="https://i.eurosport.com/_iss_/geo/country/flag/medium/2776.png" alt="" class="isg-interchange lazyload national logo" /></div><div class="team__name">Hungary</div></div><div class="match__time"><div class="svg-icon-livebox-livecomment"></div>6:00 PM</div><div class="team  team--match team--match-away" data-fav-entity="236_2"><div class="team__logo"><img data-lazy-type="isg" data-isg-lazy="https://i.eurosport.com/_iss_/geo/country/flag/medium/2223.png" alt="" class="isg-interchange lazyload national logo" /></div><div class="team__name">Portugal</div></div></a></div><div class="match"><a href="/football/euro-2020/2021/france-germany_mtc1109778/live.shtml"><div class="team  team--match" data-fav-entity="277_2"><div class="team__logo"><img data-lazy-type="isg" data-isg-lazy="https://i.eurosport.com/_iss_/geo/country/flag/medium/2202.png" alt="" class="isg-interchange lazyload national logo" /></div><div class="team__name">France</div></div><div class="match__time"><div class="svg-icon-livebox-livecomment"></div>9:00 PM</div><div class="team  team--match team--match-away" data-fav-entity="278_2"><div class="team__logo"><img data-lazy-type="isg" data-isg-lazy="https://i.eurosport.com/_iss_/geo/country/flag/medium/2206.png" alt="" class="isg-interchange lazyload national logo" /></div><div class="team__name">Germany</div></div></a></div></div></div><div class="date-wrapper"><div class="date-caption">19/06/2021</div><div class="matches-wrapper"><div class="match"><a href="/football/euro-2020/2021/hungary-france_mtc1109777/live.shtml"><div class="team  team--match" data-fav-entity="437_2"><div class="team__logo"><img data-lazy-type="isg" data-isg-lazy="https://i.eurosport.com/_iss_/geo/country/flag/medium/2776.png" alt="" class="isg-interchange lazyload national logo" /></div><div class="team__name">Hungary</div></div><div class="match__time"><div class="svg-icon-livebox-livecomment"></div>3:00 PM</div><div class="team  team--match team--match-away" data-fav-entity="277_2"><div class="team__logo"><img data-lazy-type="isg" data-isg-lazy="https://i.eurosport.com/_iss_/geo/country/flag/medium/2202.png" alt="" class="isg-interchange lazyload national logo" /></div><div class="team__name">France</div></div></a></div><div class="match"><a href="/football/euro-2020/2021/portugal-germany_mtc1109776/live.shtml"><div class="team  team--match" data-fav-entity="236_2"><div class="team__logo"><img data-lazy-type="isg" data-isg-lazy="https://i.eurosport.com/_iss_/geo/country/flag/medium/2223.png" alt="" class="isg-interchange lazyload national logo" /></div><div class="team__name">Portugal</div></div><div class="match__time"><div class="svg-icon-livebox-livecomment"></div>6:00 PM</div><div class="team  team--match team--match-away" data-fav-entity="278_2"><div class="team__logo"><img data-lazy-type="isg" data-isg-lazy="https://i.eurosport.com/_iss_/geo/country/flag/medium/2206.png" alt="" class="isg-interchange lazyload national logo" /></div><div class="team__name">Germany</div></div></a></div></div></div><div class="date-wrapper"><div class="date-caption">23/06/2021</div><div class="matches-wrapper"><div class="match"><a href="/football/euro-2020/2021/germany-hungary_mtc1109774/live.shtml"><div class="team  team--match" data-fav-entity="278_2"><div class="team__logo"><img data-lazy-type="isg" data-isg-lazy="https://i.eurosport.com/_iss_/geo/country/flag/medium/2206.png" alt="" class="isg-interchange lazyload national logo" /></div><div class="team__name">Germany</div></div><div class="match__time"><div class="svg-icon-livebox-livecomment"></div>9:00 PM</div><div class="team  team--match team--match-away" data-fav-entity="437_2"><div class="team__logo"><img data-lazy-type="isg" data-isg-lazy="https://i.eurosport.com/_iss_/geo/country/flag/medium/2776.png" alt="" class="isg-interchange lazyload national logo" /></div><div class="team__name">Hungary</div></div></a></div><div class="match"><a href="/football/euro-2020/2021/portugal-france_mtc1109775/live.shtml"><div class="team  team--match" data-fav-entity="236_2"><div class="team__logo"><img data-lazy-type="isg" data-isg-lazy="https://i.eurosport.com/_iss_/geo/country/flag/medium/2223.png" alt="" class="isg-interchange lazyload national logo" /></div><div class="team__name">Portugal</div></div><div class="match__time"><div class="svg-icon-livebox-livecomment"></div>9:00 PM</div><div class="team  team--match team--match-away" data-fav-entity="277_2"><div class="team__logo"><img data-lazy-type="isg" data-isg-lazy="https://i.eurosport.com/_iss_/geo/country/flag/medium/2202.png" alt="" class="isg-interchange lazyload national logo" /></div><div class="team__name">France</div></div></a></div></div></div></div></div><div class="link"><a class="link__text" href="/football/euro/calendar-result.shtml">Group Stage</a></div><div data-adplacement-id="2081582805betting-box" data-ad-pos="betting-box" data-class="ad"><script><!--
+						!!window.__es_gtm_helper.inject_ad('betting-box','2081582805betting-box', !!true, !!false, !!false)
+					--></script></div><div data-adplacement-id="2080272546banner" class="lazyload" data-lazy="" data-lazy-type="injectad" data-ad-pos="banner" data-class="ad"><script-injectad><!--
+						!!window.__es_gtm_helper.inject_ad('banner','2080272546banner', !!false, !!true, !!true)
+					--></script-injectad></div><div class="standing"><div class="standing__name">Ranking</div><div class="standing__positions-container"><table class="standing__positions"><caption>Group A</caption><tbody><tr class="standing__position"><td class="standing__position-num">1</td><td class="standing__position-participant-name"><div class="team  team--standing" data-fav-entity="282_2"><div class="team__logo"><img data-lazy-type="isg" data-isg-lazy="https://i.eurosport.com/_iss_/geo/country/flag/medium/2786.png" alt="" class="isg-interchange lazyload national logo" /></div><div class="team__name"><a href="/football/teams/turkey/teamcenter.shtml">Turkey</a></div></div></td><td class="standing__position-evolution"></td><td class="standing__position-points">0</td></tr><tr class="standing__position"><td class="standing__position-num">1</td><td class="standing__position-participant-name"><div class="team  team--standing" data-fav-entity="283_2"><div class="team__logo"><img data-lazy-type="isg" data-isg-lazy="https://i.eurosport.com/_iss_/geo/country/flag/medium/2210.png" alt="" class="isg-interchange lazyload national logo" /></div><div class="team__name"><a href="/football/teams/italy-1/teamcenter.shtml">Italy</a></div></div></td><td class="standing__position-evolution"></td><td class="standing__position-points">0</td></tr><tr class="standing__position"><td class="standing__position-num">1</td><td class="standing__position-participant-name"><div class="team  team--standing" data-fav-entity="564_2"><div class="team__logo"><img data-lazy-type="isg" data-isg-lazy="https://i.eurosport.com/_iss_/geo/country/flag/medium/4386.png" alt="" class="isg-interchange lazyload national logo" /></div><div class="team__name"><a href="/football/teams/wales/teamcenter.shtml">Wales</a></div></div></td><td class="standing__position-evolution"></td><td class="standing__position-points">0</td></tr><tr class="standing__position"><td class="standing__position-num">1</td><td class="standing__position-participant-name"><div class="team  team--standing" data-fav-entity="555_2"><div class="team__logo"><img data-lazy-type="isg" data-isg-lazy="https://i.eurosport.com/_iss_/geo/country/flag/medium/2213.png" alt="" class="isg-interchange lazyload national logo" /></div><div class="team__name"><a href="/football/teams/switzerland/teamcenter.shtml">Switzerland</a></div></div></td><td class="standing__position-evolution"></td><td class="standing__position-points">0</td></tr></tbody></table><table class="standing__positions"><caption>Group B</caption><tbody><tr class="standing__position"><td class="standing__position-num">1</td><td class="standing__position-participant-name"><div class="team  team--standing" data-fav-entity="290_2"><div class="team__logo"><img data-lazy-type="isg" data-isg-lazy="https://i.eurosport.com/_iss_/geo/country/flag/medium/2220.png" alt="" class="isg-interchange lazyload national logo" /></div><div class="team__name"><a href="/football/teams/denmark/teamcenter.shtml">Denmark</a></div></div></td><td class="standing__position-evolution"></td><td class="standing__position-points">0</td></tr><tr class="standing__position"><td class="standing__position-num">1</td><td class="standing__position-participant-name"><div class="team  team--standing" data-fav-entity="578_2"><div class="team__logo"><img data-lazy-type="isg" data-isg-lazy="https://i.eurosport.com/_iss_/geo/country/flag/medium/2237.png" alt="" class="isg-interchange lazyload national logo" /></div><div class="team__name"><a href="/football/teams/finland/teamcenter.shtml">Finland</a></div></div></td><td class="standing__position-evolution"></td><td class="standing__position-points">0</td></tr><tr class="standing__position"><td class="standing__position-num">1</td><td class="standing__position-participant-name"><div class="team  team--standing" data-fav-entity="280_2"><div class="team__logo"><img data-lazy-type="isg" data-isg-lazy="https://i.eurosport.com/_iss_/geo/country/flag/medium/2205.png" alt="" class="isg-interchange lazyload national logo" /></div><div class="team__name"><a href="/football/teams/belgium-1/teamcenter.shtml">Belgium</a></div></div></td><td class="standing__position-evolution"></td><td class="standing__position-points">0</td></tr><tr class="standing__position"><td class="standing__position-num">1</td><td class="standing__position-participant-name"><div class="team  team--standing" data-fav-entity="554_2"><div class="team__logo"><img data-lazy-type="isg" data-isg-lazy="https://i.eurosport.com/_iss_/geo/country/flag/medium/2204.png" alt="" class="isg-interchange lazyload national logo" /></div><div class="team__name"><a href="/football/teams/russia/teamcenter.shtml">Russia</a></div></div></td><td class="standing__position-evolution"></td><td class="standing__position-points">0</td></tr></tbody></table><table class="standing__positions"><caption>Group C</caption><tbody><tr class="standing__position"><td class="standing__position-num">1</td><td class="standing__position-participant-name"><div class="team  team--standing" data-fav-entity="2648_2"><div class="team__logo"><img data-lazy-type="isg" data-isg-lazy="https://i.eurosport.com/_iss_/geo/country/flag/medium/2201.png" alt="" class="isg-interchange lazyload national logo" /></div><div class="team__name"><a href="/football/teams/netherlands/teamcenter.shtml">Netherlands</a></div></div></td><td class="standing__position-evolution"></td><td class="standing__position-points">0</td></tr><tr class="standing__position"><td class="standing__position-num">1</td><td class="standing__position-participant-name"><div class="team  team--standing" data-fav-entity="2637_2"><div class="team__logo"><img data-lazy-type="isg" data-isg-lazy="https://i.eurosport.com/_iss_/geo/country/flag/medium/2232.png" alt="" class="isg-interchange lazyload national logo" /></div><div class="team__name"><a href="/football/teams/ukraine/teamcenter.shtml">Ukraine</a></div></div></td><td class="standing__position-evolution"></td><td class="standing__position-points">0</td></tr><tr class="standing__position"><td class="standing__position-num">1</td><td class="standing__position-participant-name"><div class="team  team--standing" data-fav-entity="575_2"><div class="team__logo"><img data-lazy-type="isg" data-isg-lazy="https://i.eurosport.com/_iss_/geo/country/flag/medium/2219.png" alt="" class="isg-interchange lazyload national logo" /></div><div class="team__name"><a href="/football/teams/austria/teamcenter.shtml">Austria</a></div></div></td><td class="standing__position-evolution"></td><td class="standing__position-points">0</td></tr><tr class="standing__position"><td class="standing__position-num">1</td><td class="standing__position-participant-name"><div class="team  team--standing" data-fav-entity="561_2"><div class="team__logo"><img data-lazy-type="isg" data-isg-lazy="https://i.eurosport.com/_iss_/geo/country/flag/medium/4358.png" alt="" class="isg-interchange lazyload national logo" /></div><div class="team__name"><a href="/football/teams/macedonia/teamcenter.shtml">North Macedonia</a></div></div></td><td class="standing__position-evolution"></td><td class="standing__position-points">0</td></tr></tbody></table><table class="standing__positions"><caption>Group D</caption><tbody><tr class="standing__position"><td class="standing__position-num">1</td><td class="standing__position-participant-name"><div class="team  team--standing" data-fav-entity="136_2"><div class="team__logo"><img data-lazy-type="isg" data-isg-lazy="https://i.eurosport.com/_iss_/geo/country/flag/medium/2208.png" alt="" class="isg-interchange lazyload national logo" /></div><div class="team__name"><a href="/football/teams/england/teamcenter.shtml">England</a></div></div></td><td class="standing__position-evolution"></td><td class="standing__position-points">0</td></tr><tr class="standing__position"><td class="standing__position-num">1</td><td class="standing__position-participant-name"><div class="team  team--standing" data-fav-entity="571_2"><div class="team__logo"><img data-lazy-type="isg" data-isg-lazy="https://i.eurosport.com/_iss_/geo/country/flag/medium/4354.png" alt="" class="isg-interchange lazyload national logo" /></div><div class="team__name"><a href="/football/teams/croatia/teamcenter.shtml">Croatia</a></div></div></td><td class="standing__position-evolution"></td><td class="standing__position-points">0</td></tr><tr class="standing__position"><td class="standing__position-num">1</td><td class="standing__position-participant-name"><div class="team  team--standing" data-fav-entity="569_2"><div class="team__logo"><img data-lazy-type="isg" data-isg-lazy="https://i.eurosport.com/_iss_/geo/country/flag/medium/2245.png" alt="" class="isg-interchange lazyload national logo" /></div><div class="team__name"><a href="/football/teams/scotland/teamcenter.shtml">Scotland</a></div></div></td><td class="standing__position-evolution"></td><td class="standing__position-points">0</td></tr><tr class="standing__position"><td class="standing__position-num">1</td><td class="standing__position-participant-name"><div class="team  team--standing" data-fav-entity="289_2"><div class="team__logo"><img data-lazy-type="isg" data-isg-lazy="https://i.eurosport.com/_iss_/geo/country/flag/medium/2240.png" alt="" class="isg-interchange lazyload national logo" /></div><div class="team__name"><a href="/football/teams/czech-republic/teamcenter.shtml">Czech Republic</a></div></div></td><td class="standing__position-evolution"></td><td class="standing__position-points">0</td></tr></tbody></table><table class="standing__positions"><caption>Group E</caption><tbody><tr class="standing__position"><td class="standing__position-num">1</td><td class="standing__position-participant-name"><div class="team  team--standing" data-fav-entity="284_2"><div class="team__logo"><img data-lazy-type="isg" data-isg-lazy="https://i.eurosport.com/_iss_/geo/country/flag/medium/2203.png" alt="" class="isg-interchange lazyload national logo" /></div><div class="team__name"><a href="/football/teams/spain-1/teamcenter.shtml">Spain</a></div></div></td><td class="standing__position-evolution"></td><td class="standing__position-points">0</td></tr><tr class="standing__position"><td class="standing__position-num">1</td><td class="standing__position-participant-name"><div class="team  team--standing" data-fav-entity="281_2"><div class="team__logo"><img data-lazy-type="isg" data-isg-lazy="https://i.eurosport.com/_iss_/geo/country/flag/medium/2222.png" alt="" class="isg-interchange lazyload national logo" /></div><div class="team__name"><a href="/football/teams/sweden-1/teamcenter.shtml">Sweden</a></div></div></td><td class="standing__position-evolution"></td><td class="standing__position-points">0</td></tr><tr class="standing__position"><td class="standing__position-num">1</td><td class="standing__position-participant-name"><div class="team  team--standing" data-fav-entity="567_2"><div class="team__logo"><img data-lazy-type="isg" data-isg-lazy="https://i.eurosport.com/_iss_/geo/country/flag/medium/2214.png" alt="" class="isg-interchange lazyload national logo" /></div><div class="team__name"><a href="/football/teams/poland-1/teamcenter.shtml">Poland</a></div></div></td><td class="standing__position-evolution"></td><td class="standing__position-points">0</td></tr><tr class="standing__position"><td class="standing__position-num">1</td><td class="standing__position-participant-name"><div class="team  team--standing" data-fav-entity="562_2"><div class="team__logo"><img data-lazy-type="isg" data-isg-lazy="https://i.eurosport.com/_iss_/geo/country/flag/medium/2233.png" alt="" class="isg-interchange lazyload national logo" /></div><div class="team__name"><a href="/football/teams/slovakia/teamcenter.shtml">Slovakia</a></div></div></td><td class="standing__position-evolution"></td><td class="standing__position-points">0</td></tr></tbody></table><table class="standing__positions"><caption>Group F</caption><tbody><tr class="standing__position"><td class="standing__position-num">1</td><td class="standing__position-participant-name"><div class="team  team--standing" data-fav-entity="437_2"><div class="team__logo"><img data-lazy-type="isg" data-isg-lazy="https://i.eurosport.com/_iss_/geo/country/flag/medium/2776.png" alt="" class="isg-interchange lazyload national logo" /></div><div class="team__name"><a href="/football/teams/hungary/teamcenter.shtml">Hungary</a></div></div></td><td class="standing__position-evolution"></td><td class="standing__position-points">0</td></tr><tr class="standing__position"><td class="standing__position-num">1</td><td class="standing__position-participant-name"><div class="team  team--standing" data-fav-entity="236_2"><div class="team__logo"><img data-lazy-type="isg" data-isg-lazy="https://i.eurosport.com/_iss_/geo/country/flag/medium/2223.png" alt="" class="isg-interchange lazyload national logo" /></div><div class="team__name"><a href="/football/teams/portugal/teamcenter.shtml">Portugal</a></div></div></td><td class="standing__position-evolution"></td><td class="standing__position-points">0</td></tr><tr class="standing__position"><td class="standing__position-num">1</td><td class="standing__position-participant-name"><div class="team  team--standing" data-fav-entity="277_2"><div class="team__logo"><img data-lazy-type="isg" data-isg-lazy="https://i.eurosport.com/_iss_/geo/country/flag/medium/2202.png" alt="" class="isg-interchange lazyload national logo" /></div><div class="team__name"><a href="/football/teams/france/teamcenter.shtml">France</a></div></div></td><td class="standing__position-evolution"></td><td class="standing__position-points">0</td></tr><tr class="standing__position"><td class="standing__position-num">1</td><td class="standing__position-participant-name"><div class="team  team--standing" data-fav-entity="278_2"><div class="team__logo"><img data-lazy-type="isg" data-isg-lazy="https://i.eurosport.com/_iss_/geo/country/flag/medium/2206.png" alt="" class="isg-interchange lazyload national logo" /></div><div class="team__name"><a href="/football/teams/germany/teamcenter.shtml">Germany</a></div></div></td><td class="standing__position-evolution"></td><td class="standing__position-points">0</td></tr></tbody></table></div></div><div class="link"><a class="link__text" href="/football/euro/calendar-result.shtml">Classification</a></div><div class="legal-notice-menu"><div class="legal-notice-menu__title">Legal Notices</div><ul><li class="legal-notice-menu__item"><a href="https://www.eurosport.com/eurosport/legal/2020-2021/terms-of-use-effective-1-april-2020_sto7711034/story.shtml">Terms of Use</a></li><li class="legal-notice-menu__item"><a href="https://www.eurosport.com/eurosport/legal/2020-2021/privacy-policy_sto7706601/story.shtml">Privacy Policy</a></li><li class="legal-notice-menu__item"><a href="https://www.eurosport.com/eurosport/legal/2020-2021/cookie-policy_sto7702916/story.shtml">Cookie Policy</a></li><li class="legal-notice-menu__item"><a href="https://www.eurosport.com/eurosport/legal/2020-2021/legal-information_sto7710100/story.shtml">Legal Information</a></li><li class="legal-notice-menu__item"><a href="https://www.eurosport.com/eurosport/legal/2020-2021/pass-information_sto7707294/story.shtml">Eurosport Pass Information</a></li><li class="legal-notice-menu__item"><a href="https://corporate.discovery.com/discoverys-modern-slavery-statement/">Modern Slavery Statement</a></li><li class="legal-notice-menu__item"><span class="ot-sdk-show-settings">Manage Preferences</span></li></ul></div></div></div>
+          </div>
+        </section>
+        <section id="col-right">
+          <div class="col-content">
+            <div class="adtech_placement_v8_5"><div data-adplacement-id="290461912mpu" class="lazyload" data-lazy="" data-lazy-type="injectad" data-ad-pos="mpu" data-class="ad"><script-injectad><!--
+						!!window.__es_gtm_helper.inject_ad('mpu','290461912mpu', !!false, !!false, !!false)
+					--></script-injectad></div></div>
+            <div class="adtech_placement_v8_5"><div data-adplacement-id="69596343betting-box" data-ad-pos="betting-box" data-class="ad"><script><!--
+						!!window.__es_gtm_helper.inject_ad('betting-box','69596343betting-box', !!false, !!false, !!false)
+					--></script></div></div>
+          </div>
+        </section>
+      </section>
+      <section id="content-bottom">
+      </section>
+      <footer id="footer">
+        <div class="footerscript_critical_v8_5"><script id="script-critical" data-geoloc="FI"><!--
+
+					(function() {
+						var promosPlayer = document.getElementsByClassName('promo-player-geoloc');
+						if (promosPlayer.length > 0) {
+							for (var i = 0; i < promosPlayer.length; i++) {
+
+								if (promosPlayer[i].hasAttribute('data-geolocs')) {
+									var geolocsArray = promosPlayer[i].getAttribute('data-geolocs').split(',');
+									if (geolocsArray.indexOf('FI') != -1) {
+										promosPlayer[i].className += " show";
+									}
+								}
+
+								else {
+									promosPlayer[i].className += " show";
+								}
+							}
+						}
+					})();
+
+			--></script></div>
+        <div class="myprofile_nav_v8_5"></div>
+        <div class="footerscript_v8_5"><div id="modal_community" class="modal community-modal modal--without-title modal--full"><div class="modal__content"><div id="login__content" class="community-content community__content__top open" data-sln="login__content"><div class="modal__close"></div><div class="community__content-wrapper"><div class="community__content-wrapper-align"><div class="community__content-container"><div><div class="community-title">Login</div><div class="community-subtitle">Sign in to save your favourites.</div><div class="social-buttons"><div class="button-container"><span id="social-button-facebook-login" data-sln="social-button-facebook-login" class="button rounded social-button facebook" data-action="login"><span class="vertical-align"></span><span class="svg-font svg-facebook"></span><span class="button-label color-facebook"><span class="label-text">Sign in with </span><span class="label-social">facebook</span></span></span></div><div class="button-container"><span id="social-button-google-login" data-sln="social-button-google-login" class="button rounded social-button google" data-action="login"><span class="vertical-align"></span><span class="svg-font svg-google"></span><span class="button-label color-google"><span class="label-text">Sign in with </span><span class="label-social">google</span></span></span></div></div><div class="separator-login">or</div><form id="login__form" autocomplete="off" method="post"><span class="input-textbox"><input type="text" id="login__email" data-sln="login__email" class="rounded input-email" autocomplete="off" name="email" value="" placeholder="Your e-mail address" maxlength="100" /><div class="message-error hide-error" data-sln="message-error"><span class="vertical-align"></span><span class="message"></span></div></span><span class="input-textbox"><input type="password" id="login__password" data-sln="login__password" class="rounded input-password" autocomplete="off" name="password" value="" placeholder="Password" /><div class="svg-icon-container"><span class="vertical-align"></span><span class="show">show</span></div><div class="message-error hide-error" data-sln="message-error"><span class="vertical-align"></span><span class="message"></span></div></span><span class="forgot-password-link" data-sln="forgot-password-link">Forgotten your password?</span><div id="login__captcha"></div><div class="button-container"><button id="login__button" data-sln="login__button" class="button rounded submit-button" type="submit"><span class="vertical-align"></span><span class="button-label">Login</span></button><div class="message-error hide-error" data-sln="message-error"><span class="vertical-align"></span><span class="message"></span></div></div></form><div class="modal__footer"><span class="svg-font svg-logo-eurosportplayer"></span><a href="https://auth.eurosportplayer.com/login" class="player-login-link tracking-link" data-page_type="home" data-adlocation="offcanvas" data-adtype="login" data-ctatype="signin">Sign in to Eurosport Player</a></div></div></div></div></div></div><div id="forgot-password__content" class="community-content community__content__bottom" data-sln="forgot-password__content"><div class="modal__close"></div><div class="community__back-to-login"><span></span></div><div class="community__content-wrapper"><div class="community__content-wrapper-align"><div class="community__content-container"><div class="community-title">Forgotten your password?</div><form id="forgot-password__form" autocomplete="off" method="post"><span class="input-textbox"><input type="text" id="forgot-password__email" data-sln="forgot-password__email" class="rounded input-email" autocomplete="off" name="email" value="" placeholder="Your e-mail address" maxlength="100" /><div class="message-error hide-error" data-sln="message-error"><span class="vertical-align"></span><span class="message"></span></div></span><div id="forgot-password__captcha"></div><div class="button-container"><button id="forgot-password__button" data-sln="forgot-password__button" class="button rounded submit-button" type="submit"><span class="vertical-align"></span><span class="button-label">Reset my password</span></button><div class="message-error hide-error" data-sln="message-error"><span class="vertical-align"></span><span class="message"></span></div></div></form><div class="modal__footer"><span class="login-link">I already have an account</span></div></div></div></div></div><div id="ask-social-email__content" class="community-content community__content__bottom" data-sln="ask-social-email__content"><div class="modal__close"></div><div class="community__content-wrapper"><div class="community__content-wrapper-align"><div class="community__content-container"><div class="community-title">Email Request</div><div class="community-subtitle"></div><form id="ask-social-email__form" autocomplete="off" method="post"><span class="input-textbox"><input type="text" id="ask-social-email__email" data-sln="ask-social-email__email" class="rounded input-email" autocomplete="off" name="email" value="" placeholder="Your e-mail address" maxlength="100" /><div class="message-error hide-error" data-sln="message-error"><span class="vertical-align"></span><span class="message"></span></div></span><div class="button-container"><button id="ask-social-email__button" data-sln="ask-social-email__button" class="button rounded submit-button" type="submit"><span class="vertical-align"></span><span class="button-label">Validate</span></button><div class="message-error hide-error" data-sln="message-error"><span class="vertical-align"></span><span class="message"></span></div></div></form><div class="modal__footer"><span class="login-link">Return to login page</span></div></div></div></div></div><div id="ask-social-password__content" class="community-content community__content__bottom" data-sln="ask-social-password__content"><div class="modal__close"></div><div class="community__content-wrapper"><div class="community__content-wrapper-align"><div class="community__content-container"><div class="community-title">Account validation</div><div class="community-subtitle"></div><form id="ask-social-password__form" autocomplete="off" method="post"><span class="input-textbox"><input type="password" id="ask-social-password__password" data-sln="ask-social-password__password" class="rounded input-password" autocomplete="off" name="password" value="" placeholder="Password" /><div class="svg-icon-container"><span class="vertical-align"></span><span class="show">show</span></div><div class="message-error hide-error" data-sln="message-error"><span class="vertical-align"></span><span class="message"></span></div></span><span class="ask-password-link">Forgotten your password?</span><div class="button-container"><button id="ask-social-password__button" data-sln="ask-social-password__button" class="button rounded submit-button" type="submit"><span class="vertical-align"></span><span class="button-label">Validate</span></button><div class="message-error hide-error" data-sln="message-error"><span class="vertical-align"></span><span class="message"></span></div></div></form><div class="modal__footer"><span class="login-link">Return to login page</span></div></div></div></div></div><div id="ask-social-optin__content" class="community-content community__content__bottom" data-sln="ask-social-optin__content"><div class="modal__close"></div><div class="community__content-wrapper"><div class="community__content-wrapper-align"><div class="community__content-container"><div class="community-title">Marketing consent</div><div class="community-subtitle"></div><form id="ask-social-optin__form" autocomplete="off" method="post"><span class="input-checkbox"><input type="checkbox" id="social-subscription__consent" data-sln="social-subscription__consent" class="rounded subscription__consent" name="subscription__consent" value="false" /><label for="social-subscription__consent">Sign up to our news and offers<span></span></label></span><p class="subscription__consent-text--gdpr">I consent that the Eurosport family of companies may provide me with news and marketing information about their products and services.</p><div class="button-container"><button id="ask-social-optin__button" data-sln="ask-social-optin__button" class="button rounded submit-button" type="submit"><span class="vertical-align"></span><span class="button-label">Create my account</span></button><div class="message-error hide-error" data-sln="message-error"><span class="vertical-align"></span><span class="message"></span></div></div></form><div class="modal__footer"><span class="login-link">Return to login page</span></div></div></div></div></div></div></div><div id="notifications" data-sln="notifications"></div><script type="text/javascript"><!--
+
+				var storageSettings = {
+					links:{
+						wsCommunity:'https://www.eurosport.com/_wscommunityV8_/Community_V8.svc/',
+						wsAdriaNames:'https://adria.eurosport.com/names.json?l=0',
+						wsItaipu:'https://itaipu.eurosport.com/api/entities?',
+						feedOnAirTvProgram:'/cors/feed_watch_bar.json',
+						ETBWatchbar:'https://web-toolkit.eurosport.com/bridge/watchbar.min.js',
+						ETBJwPlayer:'https://web-toolkit.eurosport.com/bridge/jwplayer.min.js'
+					},
+					context:{
+						dropletId:'146',
+						dropletBrandId:'0',
+						languageid:'0',
+						siteid:'7',
+						countryCode:'US',
+						countryCodeSharing:'COM',
+						partnerCode:'',
+						deviceType:'desktop',
+						sportId:'22',
+						isMobileDevice:'0'
+					},
+					variables:{
+						isPreProd:0,
+						isNoProd:'0',
+						captchaSiteKey:'6LflF2UUAAAAAEomnMECr293DSl2vZzv6sz5RjP4',
+						pageTheme:'black',
+						isScoreCenterPage:'True',
+					},
+					config:{
+						isFreewheelEnabled:1,
+						isAdobeAnalyticsEnabled:1,
+						isArvatoContactFormEnabled:1,
+						isOptinEnabled:1,
+						isNewSocialEnabled : '1',
+						isBwinBettingEnabled : '0',
+						isWinamaxBettingEnabled : '0',
+						isWebSignInGDPR:1,
+						isAnalyticsApiEnabled : '1',
+						isNewGoogleSignInEnabled : '1',
+						isTrackingLinkEnabled: '1',
+						isBet365PromoEnabled: '0',
+						isBrightcoveDisabled: '1',
+						isSdNavigation: '1',
+						isSurveyCode: '0'
+					},
+					labels:{
+						'7663':'Congratulations! You will now get all the latest news from Eurosport',
+
+						'8202':'All sports',
+						'7401':'Events',
+						'7561':'Players',
+						'7778':'teams',
+						'7613':'Video',
+						'2076':'Results',
+						'5933':'Search',
+						'7815':'Sign in',
+						'9617':'My Account',
+						'9615':'More',
+						'5840':'Show All',
+						'1936':'{0} home',
+						'7425':'Menu',
+						'8318':'hide',
+						'9619':'Change Version',
+						'9620':'Help Center',
+						'9537':'Eurosport shop',
+						'9621':'Follow us on',
+						'3414':'An error occurred, please try again !',
+						'6863':'Forbidden username, please change it',
+						'8123':'Your username must be between {0} and {1} characters',
+						'5444':'You\'re not lucky, this nickname is already taken. Try something else',
+						'5446':'It does not look like a valid email address.',
+						'5447':'This e-mail is already being used.',
+						'8124':'Your password must be between {0} and {1} characters',
+						'8351':'Minimum {0} characters',
+						'8352':'Maximum {0} characters',
+						'9523':'Your password doesn’t meet our complexity policy',
+						'8317':'show',
+						'6569':'You\'re almost there {0} !',
+						'6562':'Access my mailbox.',
+						'8313':'Access to {0}',
+						'6561':'We just sent an email to {0}. Click on the link it contains to finalize your sign-up.',
+						'6563':'I did not receive anything...',
+						'8345':'To complete your registration, please click on the link you received via {1}',
+						'6560':'Congrats {0},',
+						'6565':'Your Eurosport sign-up is now finalised!',
+						'7489':'By continuing on our website, you agree to our use of cookies for statistical and personalisation purposes.',
+						'7548':'Know more',
+						'8304':'I agree',
+						'7085':'Thank you for your message. We\'ll get back to you shortly',
+						'6744':'Your are connected',
+						'6741':'You have been logged out',
+						'7480':'Please authorize access to your email address in order to connect using Facebook',
+						'7380':'Your password has been successfully reset',
+						'8353':'We\'ve sent you an email allowing you to reset your password.',
+						'8370':'This link is broken.',
+						'5889':'In the process of validation',
+						'5890':'Error during the file upload',
+						'5891':'Unable to load file',
+						'5892':'The format {0} is not allowed',
+						'5893':'The file is too large, it must not exceed {0} MB',
+						'8333':'Cancel',
+						'6601':'Subscribed',
+						'6602':'Subscribe',
+						'8409':'You will receive your daily dose of sport in your inbox every morning',
+						'8410':'Your subscription to our Daily Digest newsletter has been cancelled',
+						'8807':'You will not receive the Daily Newsletter with Rugbyrama',
+						'8918':'You will now receive the {0} latest updates',
+						'8919':'You will no longer receive updates {0}',
+						'8898':'Your subscription to our Player newsletter has been cancelled',
+						'8899':'You will receive your Player newsletter',
+						'9534':'Thanks! You’ll be kept up to date with our latest news, offers and events.',
+						'9535':'You’ll be missed! You’ll no longer receive our email updates.',
+						'7138':'Thanks for the feedback!',
+						'8392':'You can\'t follow more than {0} entities.',
+						'6880':'There is no recent news for your selection. Try to follow different teams or players.',
+						'2623':'vote(s)',
+						'8374':'Related Videos',
+						'6877':'REPLAY',
+						'7823':'Share',
+						'8962':'Next Video',
+						'8835':'In Google Play',
+						'6302':'View',
+						'8834':'Free',
+						'9480':'Live on Eurosport',
+						'9309':'LIVE',
+						'5899':'Watch now',
+						'6301':'FREE - In Google Play'
+					},
+					community:{
+
+						socialFacebookId:'219077031557895',
+						socialGoogleId:'623699677492.apps.googleusercontent.com',
+
+
+
+						socialFacebookLocale:'en_US',
+						cookiePolicyLink:'https://www.eurosport.com/eurosport/legal/2020-2021/cookie-policy_sto7702916/story.shtml',
+                        emailDetectPageLink:'/feed-mail-domain-list.xml',
+                        screenNameTwitter:'',
+						defaultAvatarUrl : 'https://layout.eurosport.com/i/v8/avatar/avatar.png',
+						isCommunityActivated : 'False',
+						isPersonalizationActivated : 'True',
+						isUserCommentsActivated : 'False'
+					}
+				};
+
+				var require = {
+					baseUrl:'https://layout.eurosport.com/j/v8_5/merged/',
+					shim: {
+						'facebook': {
+							'exports':'FB'
+						},
+						'google': {
+							'exports':'Google'
+						},
+						'vkontakte': {
+							'exports':'VK'
+						},
+						'jwplayer': {
+							'exports': 'EurosportPlayer'
+						},
+						'outbrain': {
+							'exports': 'OBR'
+						},
+						'recaptcha': {
+							'exports': 'grecaptcha'
+						},
+            'survey': {
+              'exports': 'EDRSurvey'
+            }
+					},
+
+
+					paths: {
+						'outbrain':'//widgets.outbrain.com/outbrain',
+						'jwplayer':'https://layout.eurosport.com/j/jwplayer/2.1.0/prod',
+						'facebook':'//connect.facebook.net/en_US/sdk',
+						'google':'https://apis.google.com/js/platform',
+						'vkontakte':'https://vkontakte.ru/js/api/openapi',
+						'bc':'//players.brightcove.net/4358179179001/HJreM6wzf_default/index.min',
+
+						'recaptcha':'https://www.google.com/recaptcha/api.js?render=explicit&hl=en',
+
+
+
+						'adobe-video-analytics':'//web-toolkit.eurosport.com/adobe/video-analytics'
+
+
+					},
+					map: {
+						'*': {
+							'@emotion/styled-base': 'toolkit_bridge/emotion-styled-base',
+							'react': 'toolkit_bridge/react',
+							'react-dom': 'toolkit_bridge/react-dom',
+							'prop-types': 'toolkit_bridge/prop-types',
+							'polished': 'toolkit_bridge/polished',
+							'axios': 'toolkit_bridge/axios',
+							'moment': 'toolkit_bridge/moment',
+							'@emotion/core': 'toolkit_bridge/emotion-core',
+							'@emotion/styled': 'toolkit_bridge/emotion-styled',
+							'emotion-theming': 'toolkit_bridge/emotion-theming',
+							'js-cookie': 'toolkit_bridge/js-cookie'
+						}
+					},
+					bundles:{
+
+
+						'libs/d3':['libs/d3','libs/d3-tip'],
+						'libs/raphael':['libs/raphael'],
+						'common':['underscore','knockout','jquery','jquery-full','enums','platform','base/base','objects/objects','helpers/helpers','ws/ws','modules/scrollblocker','modules/header','modules/nav','modules/nav_category','modules/sd_nav_category','modules/nav-mobile-home','modules/teamlist/teamlist','modules/search', 'modules/smartbanner', 'modules/betting-box/index', 'modules/winamax/impression-tracking'],
+						'watch_eurosport':['modules/watch_eurosport/schedule','modules/watch_eurosport/upcoming_events','modules/watch_eurosport/upcoming_events_bis','modules/watch_eurosport/anchor', 'modules/watch_eurosport/live', 'modules/watch_eurosport/schedule_now'],
+						'stories':['modules/storylist/storylist-header', 'modules/storylist/storylist-generic', 'modules/storylist/storylist-latest', 'modules/storylist/storylist-full'],
+						'community':['libs/jquery-plugins/community/croppie', 'exif-js', 'modules/community/myprofile/my-profile', 'modules/community/myprofile/favorites', 'modules/community/myprofile/account', 'modules/community/community', 'modules/community/user-comments', 'modules/community/contact-us', 'modules/community/pro7-migration', 'modules/community/reset-password', 'modules/community/unsubscription-service','modules/community/apps-mobile','modules/community/personalization-feed', 'modules/community/activate-account-app', 'modules/community/personalization-nav', 'modules/community/login-page'],
+						'livebox':['modules/livebox/livebox','modules/livebox/components/calendar','modules/livebox/components/daemon','modules/livebox/components/dropdown','modules/livebox/components/filter-gender','modules/livebox/components/filter-group','modules/livebox/components/filter-rounds','modules/livebox/components/filter-sport','modules/livebox/components/livebox-config','modules/livebox/components/livebox-init','modules/livebox/components/livebox-model','modules/livebox/components/livebox-routing','modules/livebox/components/livebox-sandbox','modules/livebox/components/livebutton','modules/livebox/components/ui','modules/livebox/components/updater'],
+						'team-person':['modules/slideshow/slideshow_embed','modules/team/team', 'modules/team/team-results', 'modules/team/team-stats', 'modules/team/team-lastcompo', 'modules/team/team-compo', 'modules/person/person-head', 'modules/person/person-stats'],
+						'team-bis' :['modules/team_bis/team', 'modules/team_bis/team-results', 'modules/team_bis/team-stats'],
+						'person-bis' :['modules/person_bis/person'],
+						'cycling-realtime-map': ['modules/cycling-realtime-map/index'],
+						'live.common':['modules/live/live-comments','modules/live/live-promo','modules/live/components/live.Core', 'modules/live/components/live.FocalPoint', 'modules/live/components/utils/adria', 'modules/live/components/live.adria', 'modules/live/components/live.Match' ],
+						'live.multiplex':['modules/live/components/live.LiveEventHeader','modules/multiplex/multiplex'],
+						'live.bis':['modules/live/live.bis','modules/live/components/live.subnavigationmenu.bis','modules/live/live-match-summary'],
+						'live.widget-rugby':['modules/live/live.widget-rugby'],
+						'data':['modules/calendar-result/calendar-result','modules/standings/dragscroll','modules/standings/brackets','modules/nav-tab-dropdown','modules/standings/tablesorter','modules/standings/standings'],
+						'slideshow':['libs/jquery-plugins/royalslider','modules/slideshow/slideshow_viewer'],
+						'gamezone':['modules/gamezone/es-owl-carousel','modules/gamezone/gamezone'],
+						'video':['video/video_subnav','video/video_coverflow', 'video/video_coverflow_bis', 'video/video-header-list', 'video/video_player_strip', 'video/video_player_playlist', 'video/video_list_bis'],
+						'archives':['modules/archives/archives'],
+						'watch-eurosport-epg':['modules/watch-eurosport-epg/watch-eurosport-epg'],
+						'chasing_history':['chasing_history/video-list', 'chasing_history/channel-list', 'chasing_history/header', 'chasing_history/navigation', 'chasing_history/video_player_playlist'],
+						'cycling-stage-map':['modules/cycling-stage-map/cycling-stage-map'],
+						'olympic':['olympic/common', 'olympic/header-gametime', 'olympic/helper-scrollbars', 'olympic/d3helper/request', 'olympic/d3helper/dateTime', 'olympic/d3helper/fragmentUpdater'],
+						'olympic-tvschedule':['olympic/tvschedule/index'],
+						'jwplayer-test':['modules/jwplayer-test'],
+						'live-on-eurosport':['modules/live-on-eurosport/live-on-eurosport'],
+						'toolkit-bridge':['toolkit_bridge/emotion-styled-base', 'toolkit_bridge/react', 'toolkit_bridge/react-dom', 'toolkit_bridge/prop-types', 'toolkit_bridge/polished', 'toolkit_bridge/axios', 'toolkit_bridge/moment', 'toolkit_bridge/emotion-core', 'toolkit_bridge/emotion-styled', 'toolkit_bridge/emotion-theming', 'toolkit_bridge/js-cookie']
+
+
+					},
+
+				deps: ['jquery-full'
+
+		,'modules/header'
+
+		,'modules/nav'
+
+		,'modules/nav_category'
+
+		,'modules/sd_nav_category'
+
+		,'modules/livebox/livebox'
+
+		,'modules/betting-box/index'
+
+		,'modules/winamax/impression-tracking'
+
+		,'helpers/helpers'
+
+		,'modules/scrollblocker'
+
+		,'modules/community/community'
+
+		,'modules/smartbanner'
+	],
+					callback: function($) {
+						console.log('Requirejs initialized !');
+					}
+				};
+
+			--></script></div>
+      </footer>
+    </div>
+    <script type="text/javascript" src="https://layout.eurosport.com/j/v8_5/merged/libs/require.js" async="async">
+    </script>
+    <div class="analytics_v8_5"><script><!--
+
+					function getCookie(name) {
+						var value = '; ' + document.cookie;
+						var parts = value.split('; ' + name + '=');
+						if (parts.length == 2) return parts.pop().split(';').shift();
+					}
+
+					function getValue(key, cookie) {
+						var value = '';
+						var sMatch = key + '=';
+						if (cookie) {
+							var aTab = cookie.split('&');
+							for (var key in aTab) {
+								var sValue = aTab[key];
+								if (aTab.hasOwnProperty(key)) {
+									if (sValue.indexOf(sMatch) == 0) {
+										value = sValue.substring(sMatch.length, sValue.length);
+										return value;
+									}
+								}
+							}
+						}
+						return value;
+					}
+
+					var loginCookie = getCookie('CommunityUserCheck');
+					var userId= '';
+					if (loginCookie) {
+						var userCookie = getCookie('CommunityUserNew');
+						userId = getValue('userId', userCookie);
+					}
+
+			--></script><script><!--
+
+				if (typeof Object.assign != 'function') {
+					// Must be writable: true, enumerable: false, configurable: true
+					Object.defineProperty(Object, "assign", {
+					value: function assign(target, varArgs) { // .length of function is 2
+						'use strict';
+						if (target == null) { // TypeError if undefined or null
+						throw new TypeError('Cannot convert undefined or null to object');
+						}
+
+						var to = Object(target);
+
+						for (var index = 1; index < arguments.length; index++) {
+						var nextSource = arguments[index];
+
+						if (nextSource != null) { // Skip over if undefined or null
+							for (var nextKey in nextSource) {
+							// Avoid bugs when hasOwnProperty is shadowed
+							if (Object.prototype.hasOwnProperty.call(nextSource, nextKey)) {
+								to[nextKey] = nextSource[nextKey];
+							}
+							}
+						}
+						}
+						return to;
+					},
+					writable: true,
+					configurable: true
+					});
+				}
+				var dataLayer = dataLayer || [{page_videos:[]}];Object.assign(dataLayer[0],{"page_name": "news:news:results:football:euro","site": "eurosportcom","product": "news","service": "news","family": "","sport": "football","competition": "","sport_event": "euro","season": "","round": "","discipline": "","participants": "","gender": "","profile": "","page_type": "results","event_status": "","provider": "eurosport","content_id": "","author": "","pub_date": "","pub_time": "","opinion": "0","channel": "","topic": "","format": "","error_code": "","perimeter": "web","tracking_source": "eurosport.com","tracking_country": "inter","tracking_sport_event": "Football-EuropeanChamp","language_id": "0","language_name": "english","partner_code": "","login_status":loginCookie == 'True' ? 1 : 0,"user_id":userId,"sub_status": 0,"sub_client_id": "","environment": "prod"});
+
+		  --></script><script type="text/javascript"><!--
+
+				if(typeof(_satellite) != 'undefined'){
+
+
+					 window.addEventListener("heartbeat-loaded", function(){
+						window.ADBVideoInitialized = true;
+					});
+
+
+				  _satellite.pageBottom();
+				}
+
+			--></script></div>
+<!--googleon: all-->
+</body>
+</html>
